@@ -1,0 +1,1082 @@
+[
+  {
+    "title": "Smętarz dla zwierzaków",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.6,
+    "numberOfRatings": 18871,
+    "numberOfPages": 416,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.9,
+    "numberOfRatings": 17108,
+    "numberOfPages": 216,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Miasteczko Salem",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.3,
+    "numberOfRatings": 15857,
+    "numberOfPages": null,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "To",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.8,
+    "numberOfRatings": 10460,
+    "numberOfPages": 1104,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Ręka mistrza",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.6,
+    "numberOfRatings": 10236,
+    "numberOfPages": 640,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Joyland",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.9,
+    "numberOfRatings": 10184,
+    "numberOfPages": 336,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Cztery pory roku",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.6,
+    "numberOfRatings": 8983,
+    "numberOfPages": 512,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Sklepik z marzeniami",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.1,
+    "numberOfRatings": 8128,
+    "numberOfPages": 672,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Komórka",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.3,
+    "numberOfRatings": 7132,
+    "numberOfPages": 432,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Lśnienie",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.7,
+    "numberOfRatings": 7098,
+    "numberOfPages": 515,
+    "yearOfPublish": 1997
+  },
+  {
+    "title": "Doktor Sen",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.5,
+    "numberOfRatings": 7044,
+    "numberOfPages": 656,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Christine",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.2,
+    "numberOfRatings": 7033,
+    "numberOfPages": 528,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "publisher": "Vesper",
+    "rating": 7.5,
+    "numberOfRatings": 6929,
+    "numberOfPages": 428,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Cujo",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.7,
+    "numberOfRatings": 6849,
+    "numberOfPages": 464,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Bezsenność",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.4,
+    "numberOfRatings": 6220,
+    "numberOfPages": 656,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Podpalaczka",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.9,
+    "numberOfRatings": 5576,
+    "numberOfPages": 512,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Desperacja",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.6,
+    "numberOfRatings": 5414,
+    "numberOfPages": 544,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Domofon",
+    "author": "Zygmunt Miłoszewski",
+    "publisher": "W.A.B.",
+    "rating": 6.6,
+    "numberOfRatings": 5204,
+    "numberOfPages": 382,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Czarna bezgwiezdna noc",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.5,
+    "numberOfRatings": 4685,
+    "numberOfPages": 487,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Czarna Madonna",
+    "author": "Remigiusz Mróz",
+    "publisher": "Czwarta Strona",
+    "rating": 5.8,
+    "numberOfRatings": 4620,
+    "numberOfPages": 460,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Chudszy",
+    "author": "Richard Bachman",
+    "publisher": "Albatros",
+    "rating": 6.7,
+    "numberOfRatings": 4596,
+    "numberOfPages": 298,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Łowca snów",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.6,
+    "numberOfRatings": 4309,
+    "numberOfPages": 768,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Worek kości",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.1,
+    "numberOfRatings": 4275,
+    "numberOfPages": 608,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Dziewczyna z sąsiedztwa",
+    "author": "Jack Ketchum",
+    "publisher": "Papierowy Księżyc",
+    "rating": 7.8,
+    "numberOfRatings": 4208,
+    "numberOfPages": 380,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Rose Madder",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.9,
+    "numberOfRatings": 4076,
+    "numberOfPages": 448,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Bazar złych snów",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.8,
+    "numberOfRatings": 4014,
+    "numberOfPages": 672,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Księga jesiennych demonów",
+    "author": "Jarosław Grzędowicz",
+    "publisher": "Fabryka Słów",
+    "rating": 7.2,
+    "numberOfRatings": 3702,
+    "numberOfPages": 472,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Nocna zmiana",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.1,
+    "numberOfRatings": 3691,
+    "numberOfPages": 480,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Uciekinier",
+    "author": "Richard Bachman",
+    "publisher": "Albatros",
+    "rating": 7,
+    "numberOfRatings": 3617,
+    "numberOfPages": 282,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Szkieletowa załoga",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.9,
+    "numberOfRatings": 3395,
+    "numberOfPages": 648,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Rok wilkołaka",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 5.4,
+    "numberOfRatings": 3256,
+    "numberOfPages": 144,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Mroczna połowa",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.8,
+    "numberOfRatings": 3219,
+    "numberOfPages": 528,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Instytut",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7.6,
+    "numberOfRatings": 3180,
+    "numberOfPages": 672,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publisher": "Vesper",
+    "rating": 7.2,
+    "numberOfRatings": 3165,
+    "numberOfPages": 320,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Marzenia i koszmary",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.6,
+    "numberOfRatings": 3094,
+    "numberOfPages": 752,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Zew Cthulhu",
+    "author": "H.P. Lovecraft",
+    "publisher": "C&T Crime & Thriller",
+    "rating": 7.6,
+    "numberOfRatings": 3005,
+    "numberOfPages": 308,
+    "yearOfPublish": 2004
+  },
+  {
+    "title": "Manitou",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.6,
+    "numberOfRatings": 2973,
+    "numberOfPages": 272,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Buick 8",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6,
+    "numberOfRatings": 2720,
+    "numberOfPages": 360,
+    "yearOfPublish": 2007
+  },
+  {
+    "title": "Dom na Wyrębach",
+    "author": "Stefan Darda",
+    "publisher": "Videograf II",
+    "rating": 7.1,
+    "numberOfRatings": 2628,
+    "numberOfPages": 336,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Dziecko Rosemary",
+    "author": "Ira Levin",
+    "publisher": "Rebis",
+    "rating": 7,
+    "numberOfRatings": 2544,
+    "numberOfPages": 296,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Cztery po północy",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 7,
+    "numberOfRatings": 2490,
+    "numberOfPages": 832,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Uniesienie",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.1,
+    "numberOfRatings": 2477,
+    "numberOfPages": 176,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Blaze",
+    "author": "Richard Bachman",
+    "publisher": "Albatros",
+    "rating": 6.8,
+    "numberOfRatings": 2407,
+    "numberOfPages": 320,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Terror",
+    "author": "Dan Simmons",
+    "publisher": "Vesper",
+    "rating": 8.2,
+    "numberOfRatings": 2321,
+    "numberOfPages": 692,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Po zachodzie słońca",
+    "author": "Stephen King",
+    "publisher": "Albatros",
+    "rating": 6.5,
+    "numberOfRatings": 2215,
+    "numberOfPages": 480,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Serca Atlantydów",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7,
+    "numberOfRatings": 2040,
+    "numberOfPages": 512,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "World War Z",
+    "author": "Max Brooks",
+    "publisher": "Zysk i S-ka",
+    "rating": 7.3,
+    "numberOfRatings": 2038,
+    "numberOfPages": 544,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Ostatni bastion Barta Dawesa",
+    "author": "Richard Bachman",
+    "publisher": "Albatros",
+    "rating": 6.3,
+    "numberOfRatings": 1966,
+    "numberOfPages": 352,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Egzorcysta",
+    "author": "William Peter Blatty",
+    "publisher": "Vesper",
+    "rating": 7.5,
+    "numberOfRatings": 1926,
+    "numberOfPages": 356,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Śpiące królewny",
+    "author": "Owen King, Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.8,
+    "numberOfRatings": 1871,
+    "numberOfPages": 736,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Talizman",
+    "author": "Stephen King, Peter Straub",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.7,
+    "numberOfRatings": 1865,
+    "numberOfPages": 752,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Czarny Dom",
+    "author": "Stephen King, Peter Straub",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.7,
+    "numberOfRatings": 1792,
+    "numberOfPages": 648,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Mroczny kochanek",
+    "author": "J.R. Ward",
+    "publisher": "Videograf II",
+    "rating": 7.3,
+    "numberOfRatings": 1716,
+    "numberOfPages": 412,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Zgroza w Dunwich i inne przerażające opowieści",
+    "author": "H.P. Lovecraft",
+    "publisher": "Vesper",
+    "rating": 8.4,
+    "numberOfRatings": 1714,
+    "numberOfPages": 792,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Jestem legendą",
+    "author": "Richard Matheson",
+    "publisher": "Mag",
+    "rating": 7,
+    "numberOfRatings": 1655,
+    "numberOfPages": 224,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Regulatorzy",
+    "author": "Richard Bachman",
+    "publisher": "Albatros",
+    "rating": 6,
+    "numberOfRatings": 1621,
+    "numberOfPages": 384,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Czarny Wygon. Słoneczna Dolina",
+    "author": "Stefan Darda",
+    "publisher": "Videograf",
+    "rating": 7.3,
+    "numberOfRatings": 1599,
+    "numberOfPages": 272,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Wyklęty",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.8,
+    "numberOfRatings": 1591,
+    "numberOfPages": 399,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Kostnica",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.3,
+    "numberOfRatings": 1539,
+    "numberOfPages": 196,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Zemsta Manitou",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.4,
+    "numberOfRatings": 1532,
+    "numberOfPages": 304,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Opiekunowie",
+    "author": "Dean Koontz",
+    "publisher": "Albatros",
+    "rating": 7.5,
+    "numberOfRatings": 1494,
+    "numberOfPages": 512,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Wszyscy martwi razem",
+    "author": "Charlaine Harris",
+    "publisher": "Mag",
+    "rating": 6.8,
+    "numberOfRatings": 1462,
+    "numberOfPages": null,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Dżinn",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 5.8,
+    "numberOfRatings": 1459,
+    "numberOfPages": 184,
+    "yearOfPublish": 2020
+  },
+  {
+    "title": "Drapieżcy",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.9,
+    "numberOfRatings": 1448,
+    "numberOfPages": 400,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Rogi",
+    "author": "Joe Hill",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.9,
+    "numberOfRatings": 1433,
+    "numberOfPages": 376,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Inkub",
+    "author": "Artur Urbanowicz",
+    "publisher": "Vesper",
+    "rating": 8.1,
+    "numberOfRatings": 1415,
+    "numberOfPages": 728,
+    "yearOfPublish": 2019
+  },
+  {
+    "title": "Nekroskop",
+    "author": "Brian Lumley",
+    "publisher": "Vis-á-Vis/Etiuda",
+    "rating": 7.2,
+    "numberOfRatings": 1409,
+    "numberOfPages": 352,
+    "yearOfPublish": 2009
+  },
+  {
+    "title": "Zwierciadło piekieł",
+    "author": "Graham Masterton",
+    "publisher": "Audioteka",
+    "rating": 6.8,
+    "numberOfRatings": 1368,
+    "numberOfPages": null,
+    "yearOfPublish": 2020
+  },
+  {
+    "title": "Ciemność płonie",
+    "author": "Jakub Ćwiek",
+    "publisher": "Sine Qua Non",
+    "rating": 7,
+    "numberOfRatings": 1368,
+    "numberOfPages": 320,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Apokalipsa",
+    "author": "Dean Koontz",
+    "publisher": "Albatros",
+    "rating": 6.4,
+    "numberOfRatings": 1329,
+    "numberOfPages": 352,
+    "yearOfPublish": 2006
+  },
+  {
+    "title": "Gorzej niż martwy",
+    "author": "Charlaine Harris",
+    "publisher": "Mag",
+    "rating": 6.8,
+    "numberOfRatings": 1320,
+    "numberOfPages": 430,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Dom kości",
+    "author": "Graham Masterton",
+    "publisher": "Replika",
+    "rating": 6.2,
+    "numberOfRatings": 1317,
+    "numberOfPages": 288,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Wypowiedz jej imię",
+    "author": "James Dawson",
+    "publisher": "YA!",
+    "rating": 7.2,
+    "numberOfRatings": 1304,
+    "numberOfPages": 256,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Wiecznie żywy",
+    "author": "Isaac Marion",
+    "publisher": "Replika",
+    "rating": 6.9,
+    "numberOfRatings": 1294,
+    "numberOfPages": 308,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Cienie sukuba",
+    "author": "Richelle Mead",
+    "publisher": "Amber",
+    "rating": 7.5,
+    "numberOfRatings": 1266,
+    "numberOfPages": 336,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Sfinks",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 5.7,
+    "numberOfRatings": 1219,
+    "numberOfPages": 216,
+    "yearOfPublish": 2007
+  },
+  {
+    "title": "Rytuał",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.6,
+    "numberOfRatings": 1218,
+    "numberOfPages": 376,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Wampir z sąsiedztwa",
+    "author": "Kerrelyn Sparks",
+    "publisher": "Amber",
+    "rating": 7.5,
+    "numberOfRatings": 1203,
+    "numberOfPages": 392,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Apokalipsa Z: Początek końca",
+    "author": "Manel Loureiro",
+    "publisher": "Muza",
+    "rating": 7.6,
+    "numberOfRatings": 1192,
+    "numberOfPages": 416,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Miasteczko Salem (wersja rozszerzona)",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.6,
+    "numberOfRatings": 1168,
+    "numberOfPages": 488,
+    "yearOfPublish": 2005
+  },
+  {
+    "title": "Czarny Wygon. Starzyzna",
+    "author": "Stefan Darda",
+    "publisher": "Videograf",
+    "rating": 7.3,
+    "numberOfRatings": 1166,
+    "numberOfPages": 272,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Demony Normandii",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.4,
+    "numberOfRatings": 1162,
+    "numberOfPages": 208,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Szczelina",
+    "author": "Jozef Karika",
+    "publisher": "Stara Szkoła",
+    "rating": 7.5,
+    "numberOfRatings": 1148,
+    "numberOfPages": 412,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Zaklęci",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 7,
+    "numberOfRatings": 1121,
+    "numberOfPages": 416,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Dziecko ciemności",
+    "author": "Graham Masterton",
+    "publisher": "Replika",
+    "rating": 6.7,
+    "numberOfRatings": 1118,
+    "numberOfPages": 400,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Złe miejsce",
+    "author": "Dean Koontz",
+    "publisher": "Albatros",
+    "rating": 6.9,
+    "numberOfRatings": 1115,
+    "numberOfPages": 480,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Ofiara krwi",
+    "author": "J.R. Ward",
+    "publisher": "Videograf II",
+    "rating": 7.7,
+    "numberOfRatings": 1108,
+    "numberOfPages": 432,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Twierdza",
+    "author": "F. Paul Wilson",
+    "publisher": "Vesper",
+    "rating": 7.2,
+    "numberOfRatings": 1107,
+    "numberOfPages": 436,
+    "yearOfPublish": 2020
+  },
+  {
+    "title": "Odd Thomas",
+    "author": "Dean Koontz",
+    "publisher": "Albatros",
+    "rating": 7,
+    "numberOfRatings": 1100,
+    "numberOfPages": 386,
+    "yearOfPublish": 2004
+  },
+  {
+    "title": "Nawiedzony dom na wzgórzu",
+    "author": "Shirley Jackson",
+    "publisher": "Replika",
+    "rating": 5.6,
+    "numberOfRatings": 1067,
+    "numberOfPages": 304,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Pudełko w kształcie serca",
+    "author": "Joe Hill",
+    "publisher": "Prószyński i S-ka",
+    "rating": 6.5,
+    "numberOfRatings": 1066,
+    "numberOfPages": 328,
+    "yearOfPublish": 2007
+  },
+  {
+    "title": "Walhalla",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 7,
+    "numberOfRatings": 1018,
+    "numberOfPages": 400,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Wieczna miłość",
+    "author": "J.R. Ward",
+    "publisher": "Videograf II",
+    "rating": 7.8,
+    "numberOfRatings": 1011,
+    "numberOfPages": 448,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Grzeszne rozkosze",
+    "author": "Laurell K. Hamilton",
+    "publisher": "Zysk i S-ka",
+    "rating": 7.1,
+    "numberOfRatings": 1005,
+    "numberOfPages": 474,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Ring",
+    "author": "Koji Suzuki",
+    "publisher": "Znak",
+    "rating": 7,
+    "numberOfRatings": 997,
+    "numberOfPages": 324,
+    "yearOfPublish": 2004
+  },
+  {
+    "title": "Sztorm stulecia",
+    "author": "Stephen King",
+    "publisher": "Prószyński i S-ka",
+    "rating": 7.2,
+    "numberOfRatings": 961,
+    "numberOfPages": 448,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Bazyliszek",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 5.9,
+    "numberOfRatings": 958,
+    "numberOfPages": 288,
+    "yearOfPublish": 2009
+  },
+  {
+    "title": "Przegląd końca świata. Feed",
+    "author": "Mira Grant",
+    "publisher": "Sine Qua Non",
+    "rating": 7.2,
+    "numberOfRatings": 929,
+    "numberOfPages": 496,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Maska",
+    "author": "Dean Koontz",
+    "publisher": "Albatros",
+    "rating": 6.3,
+    "numberOfRatings": 924,
+    "numberOfPages": 326,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Kobieta w czerni",
+    "author": "Susan Hill",
+    "publisher": "Amber",
+    "rating": 6.3,
+    "numberOfRatings": 922,
+    "numberOfPages": 254,
+    "yearOfPublish": 2012
+  },
+  {
+    "title": "Wyznawcy płomienia",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.5,
+    "numberOfRatings": 911,
+    "numberOfPages": 366,
+    "yearOfPublish": 2007
+  },
+  {
+    "title": "Ciało i krew",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.5,
+    "numberOfRatings": 900,
+    "numberOfPages": 462,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Merrick",
+    "author": "Anne Rice",
+    "publisher": "Rebis",
+    "rating": 6.8,
+    "numberOfRatings": 899,
+    "numberOfPages": 383,
+    "yearOfPublish": 2008
+  },
+  {
+    "title": "Tengu",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.2,
+    "numberOfRatings": 885,
+    "numberOfPages": 360,
+    "yearOfPublish": 2015
+  },
+  {
+    "title": "Wojownicy nocy",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.2,
+    "numberOfRatings": 885,
+    "numberOfPages": 380,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Wampirze Serce",
+    "author": "J.R. Ward",
+    "publisher": "Videograf II",
+    "rating": 7.6,
+    "numberOfRatings": 882,
+    "numberOfPages": 480,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Dracula: Nieumarły",
+    "author": "Ian Holt, Dacre Stoker",
+    "publisher": "Znak",
+    "rating": 6.2,
+    "numberOfRatings": 868,
+    "numberOfPages": 376,
+    "yearOfPublish": 2009
+  },
+  {
+    "title": "Ocalałe",
+    "author": "Riley Sager",
+    "publisher": "Otwarte",
+    "rating": 7,
+    "numberOfRatings": 856,
+    "numberOfPages": 432,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Zjawa",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.7,
+    "numberOfRatings": 856,
+    "numberOfPages": 432,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Apokalipsa Z: Mroczne dni",
+    "author": "Manel Loureiro",
+    "publisher": "Muza",
+    "rating": 7.4,
+    "numberOfRatings": 854,
+    "numberOfPages": 352,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Narodziny Gubernatora",
+    "author": "Jay Bonansinga, Robert Kirkman",
+    "publisher": "Sine Qua Non",
+    "rating": 7.1,
+    "numberOfRatings": 843,
+    "numberOfPages": 364,
+    "yearOfPublish": 2011
+  },
+  {
+    "title": "Krew Manitou",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 6.5,
+    "numberOfRatings": 825,
+    "numberOfPages": 352,
+    "yearOfPublish": 2018
+  },
+  {
+    "title": "Dziedzictwo",
+    "author": "Graham Masterton",
+    "publisher": "Rebis",
+    "rating": 6.3,
+    "numberOfRatings": 807,
+    "numberOfPages": 232,
+    "yearOfPublish": 2013
+  },
+  {
+    "title": "Upadłe anioły",
+    "author": "Graham Masterton",
+    "publisher": "Albatros",
+    "rating": 7.1,
+    "numberOfRatings": 807,
+    "numberOfPages": 400,
+    "yearOfPublish": 2016
+  },
+  {
+    "title": "Kolekcjoner motyli",
+    "author": "Dot Hutchison",
+    "publisher": "Filia",
+    "rating": 7.1,
+    "numberOfRatings": 799,
+    "numberOfPages": 400,
+    "yearOfPublish": 2017
+  },
+  {
+    "title": "Cyrk Potępieńców",
+    "author": "Laurell K. Hamilton",
+    "publisher": "Zysk i S-ka",
+    "rating": 7.5,
+    "numberOfRatings": 791,
+    "numberOfPages": 484,
+    "yearOfPublish": 2010
+  },
+  {
+    "title": "Rook",
+    "author": "Graham Masterton",
+    "publisher": "Replika",
+    "rating": 6.7,
+    "numberOfRatings": 787,
+    "numberOfPages": 278,
+    "yearOfPublish": 2014
+  },
+  {
+    "title": "Uśmiechnięty nieboszczyk",
+    "author": "Laurell K. Hamilton",
+    "publisher": "Zysk i S-ka",
+    "rating": 7.4,
+    "numberOfRatings": 784,
+    "numberOfPages": 468,
+    "yearOfPublish": 2009
+  },
+  {
+    "title": "Czternaście obliczy strachu",
+    "author": "Graham Masterton",
+    "publisher": "Prima",
+    "rating": 6.5,
+    "numberOfRatings": 773,
+    "numberOfPages": 271,
+    "yearOfPublish": 2000
+  },
+  {
+    "title": "Wilkołak",
+    "author": "Jonathan Maberry",
+    "publisher": "Amber",
+    "rating": 6.1,
+    "numberOfRatings": 767,
+    "numberOfPages": 288,
+    "yearOfPublish": 2010
+  }
+]
