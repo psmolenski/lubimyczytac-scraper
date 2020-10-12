@@ -4,1079 +4,1199 @@
     "author": "Stieg Larsson",
     "publisher": "Czarna Owca",
     "rating": 8.2,
-    "numberOfRatings": 40122,
+    "numberOfRatings": 40216,
     "numberOfPages": 640,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-11-04",
+    "price": 23.84
   },
   {
     "title": "Kod Leonarda da Vinci",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 7.1,
-    "numberOfRatings": 39049,
+    "numberOfRatings": 39125,
     "numberOfPages": 568,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-08-12",
+    "price": 9.96
   },
   {
     "title": "Dziewczyna z pociągu",
     "author": "Paula Hawkins",
     "publisher": "Świat Książki",
     "rating": 6.5,
-    "numberOfRatings": 32488,
+    "numberOfRatings": 32592,
     "numberOfPages": 328,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-09-14",
+    "price": 12.99
   },
   {
     "title": "Dziewczyna, która igrała z ogniem",
     "author": "Stieg Larsson",
     "publisher": "Czarna Owca",
     "rating": 8.2,
-    "numberOfRatings": 31201,
+    "numberOfRatings": 31268,
     "numberOfPages": 704,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-05-11",
+    "price": 26.83
   },
   {
     "title": "Anioły i demony",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 7.2,
-    "numberOfRatings": 28796,
+    "numberOfRatings": 28849,
     "numberOfPages": 560,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-06-24",
+    "price": 9.96
   },
   {
     "title": "Zamek z piasku, który runął",
     "author": "Stieg Larsson",
     "publisher": "Czarna Owca",
     "rating": 8.1,
-    "numberOfRatings": 27023,
+    "numberOfRatings": 27083,
     "numberOfPages": 784,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-01-01",
+    "price": 25.04
   },
   {
     "title": "Pachnidło. Historia pewnego mordercy",
     "author": "Patrick Süskind",
     "publisher": "Świat Książki",
     "rating": 7,
-    "numberOfRatings": 22118,
+    "numberOfRatings": 21678,
     "numberOfPages": 254,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-01-01",
+    "price": null
   },
   {
     "title": "Zielona Mila",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 8.5,
-    "numberOfRatings": 21599,
+    "numberOfRatings": 21651,
     "numberOfPages": null,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-31",
+    "price": 8.07
   },
   {
     "title": "Ojciec chrzestny",
     "author": "Mario Puzo",
     "publisher": "Albatros",
     "rating": 8.8,
-    "numberOfRatings": 20740,
+    "numberOfRatings": 20782,
     "numberOfPages": 480,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-15",
+    "price": 26.18
   },
   {
     "title": "Księżniczka z lodu",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.2,
-    "numberOfRatings": 19975,
+    "numberOfRatings": 20029,
     "numberOfPages": 424,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-01",
+    "price": 20.88
   },
   {
     "title": "Kasacja",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.5,
-    "numberOfRatings": 18406,
+    "numberOfRatings": 18536,
     "numberOfPages": 496,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-13",
+    "price": 7.2
   },
   {
     "title": "Za zamkniętymi drzwiami",
     "author": "B.A. Paris",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 18157,
+    "numberOfRatings": 18277,
     "numberOfPages": 304,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-02-15",
+    "price": 20.95
   },
   {
     "title": "Chemia śmierci",
     "author": "Simon Beckett",
     "publisher": "Czarna Owca",
     "rating": 7.7,
-    "numberOfRatings": 17088,
+    "numberOfRatings": 17141,
     "numberOfPages": null,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-08-12",
+    "price": 19.9
   },
   {
     "title": "Nie mów nikomu",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 16011,
+    "numberOfRatings": 16059,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-02-19",
+    "price": 24.34
   },
   {
     "title": "Inferno",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 7.1,
-    "numberOfRatings": 15969,
+    "numberOfRatings": 15997,
     "numberOfPages": 688,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-10-14",
+    "price": 19.87
   },
   {
     "title": "Zaginiony symbol",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 6.9,
-    "numberOfRatings": 15894,
+    "numberOfRatings": 15925,
     "numberOfPages": 624,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-06-24",
+    "price": 9.96
   },
   {
     "title": "I nie było już nikogo",
     "author": "Agatha Christie",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 8,
-    "numberOfRatings": 15507,
+    "numberOfRatings": 15552,
     "numberOfPages": 220,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-07-02",
+    "price": 15.06
   },
   {
     "title": "Kaznodzieja",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.3,
-    "numberOfRatings": 14937,
+    "numberOfRatings": 14982,
     "numberOfPages": 440,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-01",
+    "price": 20.9
   },
   {
     "title": "Misery",
     "author": "Stephen King",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.7,
-    "numberOfRatings": 14744,
+    "numberOfRatings": 14790,
     "numberOfPages": 368,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-15",
+    "price": 20.2
   },
   {
     "title": "Chyłka. Zaginięcie",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.6,
-    "numberOfRatings": 13942,
+    "numberOfRatings": 14031,
     "numberOfPages": 509,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-16",
+    "price": 8.75
   },
   {
     "title": "Cyfrowa twierdza",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 6.7,
-    "numberOfRatings": 13854,
+    "numberOfRatings": 13881,
     "numberOfPages": 536,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-08-12",
+    "price": 9.4
   },
   {
     "title": "Człowiek nietoperz",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.5,
-    "numberOfRatings": 13754,
+    "numberOfRatings": 13805,
     "numberOfPages": 344,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 11.98
   },
   {
     "title": "Kamieniarz",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.6,
-    "numberOfRatings": 13739,
+    "numberOfRatings": 13777,
     "numberOfPages": 536,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-01",
+    "price": 20.9
   },
   {
     "title": "Uwikłanie",
     "author": "Zygmunt Miłoszewski",
     "publisher": "W.A.B.",
     "rating": 7.4,
-    "numberOfRatings": 13315,
+    "numberOfRatings": 13360,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 20.54
   },
   {
     "title": "Ziarno prawdy",
     "author": "Zygmunt Miłoszewski",
     "publisher": "W.A.B.",
     "rating": 7.7,
-    "numberOfRatings": 12940,
+    "numberOfRatings": 12974,
     "numberOfPages": 368,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": 12.74
   },
   {
     "title": "Ofiara losu",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.2,
-    "numberOfRatings": 11869,
+    "numberOfRatings": 11906,
     "numberOfPages": 448,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-01",
+    "price": 8.4
   },
   {
     "title": "Morderstwo w Orient Expressie",
     "author": "Agatha Christie",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.8,
-    "numberOfRatings": 11822,
+    "numberOfRatings": 11866,
     "numberOfPages": 264,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-22",
+    "price": 20.98
   },
   {
     "title": "Niemiecki bękart",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.6,
-    "numberOfRatings": 11476,
+    "numberOfRatings": 11513,
     "numberOfPages": 568,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-06-05",
+    "price": null
   },
   {
     "title": "Gniew",
     "author": "Zygmunt Miłoszewski",
     "publisher": "W.A.B.",
     "rating": 7.7,
-    "numberOfRatings": 11426,
+    "numberOfRatings": 11459,
     "numberOfPages": 478,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 9.74
   },
   {
     "title": "Rewizja",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.5,
-    "numberOfRatings": 11187,
+    "numberOfRatings": 11270,
     "numberOfPages": 624,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-30",
+    "price": 8.75
   },
   {
     "title": "Zapisane w kościach",
     "author": "Simon Beckett",
     "publisher": "Amber",
     "rating": 7.8,
-    "numberOfRatings": 11154,
+    "numberOfRatings": 11191,
     "numberOfPages": 331,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-12-03",
+    "price": 7.67
   },
   {
     "title": "Karaluchy",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.9,
-    "numberOfRatings": 11069,
+    "numberOfRatings": 11108,
     "numberOfPages": 319,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 14.58
   },
   {
     "title": "Pierwszy śnieg",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.8,
-    "numberOfRatings": 11025,
+    "numberOfRatings": 11050,
     "numberOfPages": 432,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 22.25
   },
   {
     "title": "Milczenie owiec",
     "author": "Thomas Harris",
     "publisher": "Sonia Draga",
     "rating": 8,
-    "numberOfRatings": 10809,
+    "numberOfRatings": 10830,
     "numberOfPages": null,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-02-27",
+    "price": 22.18
   },
   {
     "title": "Ślepnąc od świateł",
     "author": "Jakub Żulczyk",
     "publisher": "Świat Książki",
     "rating": 7.3,
-    "numberOfRatings": 10256,
+    "numberOfRatings": 10318,
     "numberOfPages": 520,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 17.94
   },
   {
     "title": "Zwodniczy punkt",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 6.8,
-    "numberOfRatings": 10245,
+    "numberOfRatings": 10263,
     "numberOfPages": 528,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-06-24",
+    "price": 9.96
   },
   {
     "title": "Czerwone gardło",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.4,
-    "numberOfRatings": 10109,
+    "numberOfRatings": 10144,
     "numberOfPages": 424,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": null
   },
   {
     "title": "Fabrykantka aniołków",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.5,
-    "numberOfRatings": 10093,
+    "numberOfRatings": 10132,
     "numberOfPages": 496,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-01",
+    "price": 21.28
   },
   {
     "title": "Syrenka",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.5,
-    "numberOfRatings": 10072,
+    "numberOfRatings": 10108,
     "numberOfPages": 488,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-06-05",
+    "price": 18.17
   },
   {
     "title": "Pacjentka",
     "author": "Alex Michaelides",
     "publisher": "W.A.B.",
     "rating": 7.4,
-    "numberOfRatings": 10076,
+    "numberOfRatings": 10235,
     "numberOfPages": 352,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-03-13",
+    "price": null
   },
   {
     "title": "Latarnik",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.2,
-    "numberOfRatings": 9994,
+    "numberOfRatings": 10028,
     "numberOfPages": 496,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-08-01",
+    "price": null
   },
   {
     "title": "Immunitet",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.5,
-    "numberOfRatings": 9669,
+    "numberOfRatings": 9733,
     "numberOfPages": 648,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-08-31",
+    "price": 22.54
   },
   {
     "title": "Chirurg",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 9662,
+    "numberOfRatings": 9703,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-14",
+    "price": 20.58
   },
   {
     "title": "Żmijowisko",
     "author": "Wojciech Chmielarz",
     "publisher": "Marginesy",
     "rating": 7.5,
-    "numberOfRatings": 9579,
+    "numberOfRatings": 9667,
     "numberOfPages": 480,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-16",
+    "price": 22.57
   },
   {
     "title": "Bez skrupułów",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 9435,
+    "numberOfRatings": 9460,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-27",
+    "price": 22.77
   },
   {
     "title": "Paragraf 22",
     "author": "Joseph Heller",
     "publisher": "Albatros",
     "rating": 7.9,
-    "numberOfRatings": 9252,
+    "numberOfRatings": 9308,
     "numberOfPages": 480,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-06-19",
+    "price": 24.75
   },
   {
     "title": "Behawiorysta",
     "author": "Remigiusz Mróz",
     "publisher": "Filia",
     "rating": 7.4,
-    "numberOfRatings": 8981,
+    "numberOfRatings": 9022,
     "numberOfPages": 496,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-10-26",
+    "price": 22.23
   },
   {
     "title": "Szepty zmarłych",
     "author": "Simon Beckett",
     "publisher": "Czarna Owca",
     "rating": 7.7,
-    "numberOfRatings": 8966,
+    "numberOfRatings": 8990,
     "numberOfPages": 360,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-09",
+    "price": 20.9
   },
   {
     "title": "Pan Mercedes",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 8939,
+    "numberOfRatings": 8963,
     "numberOfPages": 576,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-09-18",
+    "price": 11.85
   },
   {
     "title": "Inwigilacja",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.7,
-    "numberOfRatings": 8733,
+    "numberOfRatings": 8790,
     "numberOfPages": 592,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-03-15",
+    "price": 23.42
   },
   {
     "title": "Pochłaniacz",
     "author": "Katarzyna Bonda",
     "publisher": "Muza",
     "rating": 6.7,
-    "numberOfRatings": 8686,
+    "numberOfRatings": 8708,
     "numberOfPages": 672,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-04-12",
+    "price": 22.82
   },
   {
     "title": "Wielki Marsz",
     "author": "Richard Bachman",
     "publisher": "Prószyński i S-ka",
     "rating": 7.7,
-    "numberOfRatings": 8683,
+    "numberOfRatings": 8713,
     "numberOfPages": 264,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-07-08",
+    "price": 20.2
   },
   {
     "title": "Ekspozycja",
     "author": "Remigiusz Mróz",
     "publisher": "Filia",
     "rating": 6.9,
-    "numberOfRatings": 8663,
+    "numberOfRatings": 8701,
     "numberOfPages": 480,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-08-12",
+    "price": 21.55
   },
   {
     "title": "W głębi lasu",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 8628,
+    "numberOfRatings": 8710,
     "numberOfPages": 432,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-06-03",
+    "price": 25.43
   },
   {
     "title": "Wołanie kukułki",
     "author": "Robert Galbraith",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7,
-    "numberOfRatings": 8282,
+    "numberOfRatings": 8313,
     "numberOfPages": 456,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-02",
+    "price": null
   },
   {
     "title": "Pogromca lwów",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.6,
-    "numberOfRatings": 8218,
+    "numberOfRatings": 8245,
     "numberOfPages": 432,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-03",
+    "price": 21.13
   },
   {
     "title": "Trzeci klucz",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.4,
-    "numberOfRatings": 8184,
+    "numberOfRatings": 8209,
     "numberOfPages": 424,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 23.91
   },
   {
     "title": "Co nas nie zabije",
     "author": "David Lagercrantz",
     "publisher": "Czarna Owca",
     "rating": 7,
-    "numberOfRatings": 8170,
+    "numberOfRatings": 8185,
     "numberOfPages": 504,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-08-27",
+    "price": 20
   },
   {
     "title": "Pies Baskervillów",
     "author": "Arthur Conan Doyle",
     "publisher": "Algo",
     "rating": 7.4,
-    "numberOfRatings": 8121,
+    "numberOfRatings": 8150,
     "numberOfPages": 235,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-07-01",
+    "price": 9.96
   },
   {
     "title": "Pentagram",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.6,
-    "numberOfRatings": 8102,
+    "numberOfRatings": 8126,
     "numberOfPages": 376,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 12.03
   },
   {
     "title": "Na skraju załamania",
     "author": "B.A. Paris",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 7903,
+    "numberOfRatings": 7980,
     "numberOfPages": 352,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-02-15",
+    "price": 8.45
   },
   {
     "title": "Nieodnaleziona",
     "author": "Remigiusz Mróz",
     "publisher": "Filia",
     "rating": 6.9,
-    "numberOfRatings": 7841,
+    "numberOfRatings": 7891,
     "numberOfPages": 400,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-01-31",
+    "price": 23.35
   },
   {
     "title": "Bez pożegnania",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 7563,
+    "numberOfRatings": 7577,
     "numberOfPages": 420,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-07-17",
+    "price": 22.77
   },
   {
     "title": "Oskarżenie",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.4,
-    "numberOfRatings": 7460,
+    "numberOfRatings": 7510,
     "numberOfPages": 564,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-09-27",
+    "price": null
   },
   {
     "title": "Wołanie grobu",
     "author": "Simon Beckett",
     "publisher": "Czarna Owca",
     "rating": 7.5,
-    "numberOfRatings": 7426,
+    "numberOfRatings": 7458,
     "numberOfPages": 368,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-03-25",
+    "price": 20.91
   },
   {
     "title": "Bez śladu",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 7402,
+    "numberOfRatings": 7419,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-06-19",
+    "price": 22.61
   },
   {
     "title": "Zaginiona dziewczyna",
     "author": "Gillian Flynn",
     "publisher": "Burda Publishing Polska",
     "rating": 7.6,
-    "numberOfRatings": 7273,
+    "numberOfRatings": 7286,
     "numberOfPages": 652,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-22",
+    "price": null
   },
   {
     "title": "Policja",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 8.1,
-    "numberOfRatings": 7023,
+    "numberOfRatings": 7045,
     "numberOfPages": 472,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-03",
+    "price": 23.9
   },
   {
     "title": "Motylek",
     "author": "Katarzyna Puzyńska",
     "publisher": "Prószyński i S-ka",
     "rating": 7.2,
-    "numberOfRatings": 6862,
+    "numberOfRatings": 6889,
     "numberOfPages": 608,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-02-06",
+    "price": 21.33
   },
   {
     "title": "Bezcenny",
     "author": "Zygmunt Miłoszewski",
     "publisher": "W.A.B.",
     "rating": 7.1,
-    "numberOfRatings": 6714,
+    "numberOfRatings": 6764,
     "numberOfPages": 496,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-20",
+    "price": null
   },
   {
     "title": "Przewieszenie",
     "author": "Remigiusz Mróz",
     "publisher": "Filia",
     "rating": 7.6,
-    "numberOfRatings": 6710,
+    "numberOfRatings": 6745,
     "numberOfPages": 462,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-13",
+    "price": 21.5
   },
   {
     "title": "Pancerne serce",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.8,
-    "numberOfRatings": 6641,
+    "numberOfRatings": 6661,
     "numberOfPages": 536,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 24.31
   },
   {
     "title": "Wybawiciel",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.6,
-    "numberOfRatings": 6616,
+    "numberOfRatings": 6635,
     "numberOfPages": 432,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 23.74
   },
   {
     "title": "Dolores Claiborne",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 6591,
+    "numberOfRatings": 6615,
     "numberOfPages": 256,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-08-08",
+    "price": 20.19
   },
   {
     "title": "Lesio",
     "author": "Joanna Chmielewska",
     "publisher": "Firma Księgarska Olesiejuk",
     "rating": 7.3,
-    "numberOfRatings": 6582,
+    "numberOfRatings": 6594,
     "numberOfPages": 315,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-06",
+    "price": null
   },
   {
     "title": "Testament",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.3,
-    "numberOfRatings": 6540,
+    "numberOfRatings": 6585,
     "numberOfPages": 536,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-14",
+    "price": 21.41
   },
   {
     "title": "Krótka piłka",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 6515,
+    "numberOfRatings": 7014,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-05-08",
+    "price": 21.67
   },
   {
     "title": "Sherlock Holmes. Studium w szkarłacie",
     "author": "Arthur Conan Doyle",
     "publisher": "Dragon",
     "rating": 7.5,
-    "numberOfRatings": 6489,
+    "numberOfRatings": 6517,
     "numberOfPages": 160,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-01",
+    "price": 6.95
   },
   {
     "title": "Zapisane w wodzie",
     "author": "Paula Hawkins",
     "publisher": "Świat Książki",
     "rating": 6.4,
-    "numberOfRatings": 6400,
+    "numberOfRatings": 6437,
     "numberOfPages": 368,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-10",
+    "price": 22.42
   },
   {
     "title": "Obiecaj mi",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 6347,
+    "numberOfRatings": 6360,
     "numberOfPages": 412,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-12-04",
+    "price": 22.16
   },
   {
     "title": "Jedyna szansa",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 6171,
+    "numberOfRatings": 6187,
     "numberOfPages": 416,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-09-25",
+    "price": 22.17
   },
   {
     "title": "Skalpel",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 6123,
+    "numberOfRatings": 6141,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-12-13",
+    "price": 25.01
   },
   {
     "title": "Czerwony smok",
     "author": "Thomas Harris",
     "publisher": "Sonia Draga",
     "rating": 7.6,
-    "numberOfRatings": 6104,
+    "numberOfRatings": 6120,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-21",
+    "price": 21.4
   },
   {
     "title": "Niewinny",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 6064,
+    "numberOfRatings": 6072,
     "numberOfPages": 416,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-06-05",
+    "price": 23.05
   },
   {
     "title": "Trawers",
     "author": "Remigiusz Mróz",
     "publisher": "Filia",
     "rating": 7.6,
-    "numberOfRatings": 6029,
+    "numberOfRatings": 6062,
     "numberOfPages": 600,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-05-18",
+    "price": 21.78
   },
   {
     "title": "Syn",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.6,
-    "numberOfRatings": 5992,
+    "numberOfRatings": 6011,
     "numberOfPages": 432,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": null
   },
   {
     "title": "Sprawa Niny Frank",
     "author": "Katarzyna Bonda",
     "publisher": "Muza",
     "rating": 6.6,
-    "numberOfRatings": 5937,
+    "numberOfRatings": 5956,
     "numberOfPages": 416,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-09-30",
+    "price": 8.7
   },
   {
     "title": "Upiory",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.8,
-    "numberOfRatings": 5931,
+    "numberOfRatings": 5953,
     "numberOfPages": 426,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 23.98
   },
   {
     "title": "Tylko jedno spojrzenie",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 5930,
+    "numberOfRatings": 5945,
     "numberOfPages": 402,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-20",
+    "price": 22.47
   },
   {
     "title": "Dawca",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 5751,
+    "numberOfRatings": 5770,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-29",
+    "price": 8.4
   },
   {
     "title": "Grzesznik",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 5723,
+    "numberOfRatings": 5742,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-12-27",
+    "price": 24.36
   },
   {
     "title": "Hashtag",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 6.1,
-    "numberOfRatings": 5643,
+    "numberOfRatings": 5684,
     "numberOfPages": 424,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-07-18",
+    "price": 8.75
   },
   {
     "title": "Kontratyp",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 7.4,
-    "numberOfRatings": 5646,
+    "numberOfRatings": 5696,
     "numberOfPages": 532,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-09-19",
+    "price": 23.42
   },
   {
     "title": "Okularnik",
     "author": "Katarzyna Bonda",
     "publisher": "Muza",
     "rating": 6.9,
-    "numberOfRatings": 5640,
+    "numberOfRatings": 5657,
     "numberOfPages": 848,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-04-12",
+    "price": 25.62
   },
   {
     "title": "Początek",
     "author": "Dan Brown",
     "publisher": "Sonia Draga",
     "rating": 6.7,
-    "numberOfRatings": 5635,
+    "numberOfRatings": 5660,
     "numberOfPages": 576,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-03",
+    "price": 22.18
   },
   {
     "title": "Blackout",
     "author": "Marc Elsberg",
     "publisher": "W.A.B.",
     "rating": 7.1,
-    "numberOfRatings": 5611,
+    "numberOfRatings": 5636,
     "numberOfPages": 784,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-01-28",
+    "price": 20.5
   },
   {
     "title": "Autopsja",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 5568,
+    "numberOfRatings": 5586,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-02-07",
+    "price": 24.4
   },
   {
     "title": "Najczarniejszy strach",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 5564,
+    "numberOfRatings": 5580,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-06",
+    "price": 21.58
   },
   {
     "title": "Błękitna krew",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 5529,
+    "numberOfRatings": 5540,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-07-31",
+    "price": null
   },
   {
     "title": "Łowcy głów",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.1,
-    "numberOfRatings": 5517,
+    "numberOfRatings": 5528,
     "numberOfPages": 224,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-06-06",
+    "price": 17.9
   },
   {
     "title": "Przebudzenie",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6.8,
-    "numberOfRatings": 5478,
+    "numberOfRatings": 5496,
     "numberOfPages": 536,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-13",
+    "price": 24.95
   },
   {
     "title": "Lokatorka",
     "author": "J.P. Delaney",
     "publisher": "Otwarte",
     "rating": 7.1,
-    "numberOfRatings": 5457,
+    "numberOfRatings": 5486,
     "numberOfPages": 460,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-06-14",
+    "price": 16.57
   },
   {
     "title": "Jeden fałszywy ruch",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 5402,
+    "numberOfRatings": 5412,
     "numberOfPages": 384,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-09-11",
+    "price": 21.84
   },
   {
     "title": "Dwanaście prac Herkulesa",
     "author": "Agatha Christie",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.9,
-    "numberOfRatings": 5356,
+    "numberOfRatings": 5368,
     "numberOfPages": 319,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-07-17",
+    "price": 14.85
   },
   {
     "title": "Znalezione nie kradzione",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 5327,
+    "numberOfRatings": 5347,
     "numberOfPages": 480,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-09-18",
+    "price": 8.8
   },
   {
     "title": "Dolina umarłych",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 5309,
+    "numberOfRatings": 5324,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-04-18",
+    "price": 24.36
   },
   {
     "title": "Jedwabnik",
     "author": "Robert Galbraith",
     "publisher": "Wydawnictwo Dolnośląskie",
-    "rating": 7,
-    "numberOfRatings": 5212,
+    "rating": 7.1,
+    "numberOfRatings": 5231,
     "numberOfPages": 480,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-02",
+    "price": 23.71
   },
   {
     "title": "Ostatni szczegół",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 5185,
+    "numberOfRatings": 5200,
     "numberOfPages": 400,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-09",
+    "price": 21.83
   },
   {
     "title": "Czarownica",
     "author": "Camilla Läckberg",
     "publisher": "Czarna Owca",
     "rating": 7.3,
-    "numberOfRatings": 5142,
+    "numberOfRatings": 5175,
     "numberOfPages": 592,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-08",
+    "price": 20
   },
   {
     "title": "Sobowtór",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 5111,
+    "numberOfRatings": 5130,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-01-24",
+    "price": 24.61
   },
   {
     "title": "Przygody Sherlocka Holmesa",
     "author": "Arthur Conan Doyle",
     "publisher": "Algo",
     "rating": 7.5,
-    "numberOfRatings": 5057,
+    "numberOfRatings": 5068,
     "numberOfPages": 395,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-07-19",
+    "price": 4.4
   },
   {
     "title": "Dom sióstr",
     "author": "Charlotte Link",
     "publisher": "Sonia Draga",
     "rating": 7.4,
-    "numberOfRatings": 5054,
+    "numberOfRatings": 5069,
     "numberOfPages": 640,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-08-27",
+    "price": 21.94
   },
   {
     "title": "Zachowaj spokój",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 5043,
+    "numberOfRatings": 5057,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-08-28",
+    "price": 22.7
   },
   {
     "title": "Na gorącym uczynku",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 5034,
+    "numberOfRatings": 5047,
     "numberOfPages": 416,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-13",
+    "price": 24.99
   },
   {
     "title": "Krew na śniegu",
     "author": "Jo Nesbø",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.3,
-    "numberOfRatings": 4858,
+    "numberOfRatings": 4876,
     "numberOfPages": 167,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-17",
+    "price": 18.08
   },
   {
     "title": "Klinika śmierci",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 4810,
+    "numberOfRatings": 4821,
     "numberOfPages": 460,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-12-18",
+    "price": 24.33
   },
   {
     "title": "Klub Mefista",
     "author": "Tess Gerritsen",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 4810,
+    "numberOfRatings": 4823,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-03-07",
+    "price": 21.19
   },
   {
     "title": "Zaginiona",
     "author": "Harlan Coben",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 4771,
+    "numberOfRatings": 4789,
     "numberOfPages": 380,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-02",
+    "price": 22.17
   },
   {
     "title": "Całe zdanie nieboszczyka",
     "author": "Joanna Chmielewska",
     "publisher": "Firma Księgarska Olesiejuk",
     "rating": 7.6,
-    "numberOfRatings": 4754,
+    "numberOfRatings": 4760,
     "numberOfPages": 333,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-18",
+    "price": null
   },
   {
     "title": "Gra Geralda",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.3,
-    "numberOfRatings": 4744,
+    "numberOfRatings": 4754,
     "numberOfPages": 415,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-05-06",
+    "price": 23.32
   }
 ]

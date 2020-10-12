@@ -9,7 +9,7 @@ async function main() {
 
     const browserPage = await browser.newPage();
 
-    const urls = require('./data/romans.urls.json');
+    const urls = require('./data/fantastyka.urls.json');
     const booksDetails = [];
 
     for (let url of urls) {
@@ -19,7 +19,7 @@ async function main() {
         booksDetails.push(bookDetails);
     }
 
-    await fs.writeFile(`romans.details.json`, JSON.stringify(booksDetails, null, 2));
+    await fs.writeFile(`fantastyka.details.json`, JSON.stringify(booksDetails, null, 2));
     await browser.close();
 }
 
@@ -28,6 +28,7 @@ function parseBookDetails(bookEl) {
     const numberOfPagesLabelEl = detailsEls.find(dt => dt.innerText.trim() === 'Liczba stron:');
     const yearOfPublishLabelEl = detailsEls.find(dt => dt.innerText.trim() === 'Data wydania:');
 
+    let priceEl = document.querySelector('[data-type="książka"] .bookstore-item-price');
     return {
         title: bookEl.querySelector('.book__title').innerText.trim(),
         author: bookEl.querySelector('.author').innerText.trim(),
@@ -35,7 +36,8 @@ function parseBookDetails(bookEl) {
         rating: Number.parseFloat(bookEl.querySelector('.rating-value .big-number').innerText.replace(',', '.')),
         numberOfRatings: Number.parseInt(bookEl.querySelector('.rating .book-pages').innerText.trim().split(' ')[0]),
         numberOfPages: numberOfPagesLabelEl ? Number.parseInt(numberOfPagesLabelEl.nextElementSibling.innerText.trim()) : null,
-        yearOfPublish: yearOfPublishLabelEl ? Number.parseInt(yearOfPublishLabelEl.nextElementSibling.innerText.trim().split('-')[0]) : null,
+        dateOfPublish: yearOfPublishLabelEl ? yearOfPublishLabelEl.nextElementSibling.innerText.trim() : null,
+        price: priceEl ? Number.parseFloat(priceEl.innerText.trim()) : null
     }
 }
 

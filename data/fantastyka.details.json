@@ -4,1079 +4,1199 @@
     "author": "J.K. Rowling",
     "publisher": "Media Rodzina",
     "rating": 8.1,
-    "numberOfRatings": 69192,
+    "numberOfRatings": 69383,
     "numberOfPages": 352,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-07-01",
+    "price": 19.5
   },
   {
     "title": "Hobbit",
     "author": "J.R.R. Tolkien",
     "publisher": "Zysk i S-ka",
     "rating": 7.7,
-    "numberOfRatings": 49362,
+    "numberOfRatings": 49483,
     "numberOfPages": 304,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-02-12",
+    "price": 18.05
   },
   {
     "title": "Ostatnie życzenie",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.4,
-    "numberOfRatings": 37220,
+    "numberOfRatings": 37688,
     "numberOfPages": 332,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-01",
+    "price": 30.02
   },
   {
     "title": "Gra o tron",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8.4,
-    "numberOfRatings": 35829,
+    "numberOfRatings": 35897,
     "numberOfPages": 999,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-28",
+    "price": 26.95
   },
   {
     "title": "Krew elfów",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.2,
-    "numberOfRatings": 34859,
+    "numberOfRatings": 35196,
     "numberOfPages": 340,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-28",
+    "price": 28.6
   },
   {
     "title": "Przed świtem",
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.3,
-    "numberOfRatings": 33270,
+    "numberOfRatings": 33313,
     "numberOfPages": 719,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-10-01",
+    "price": 24.14
   },
   {
     "title": "Miecz przeznaczenia",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.4,
-    "numberOfRatings": 32013,
+    "numberOfRatings": 32147,
     "numberOfPages": 400,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-01",
+    "price": 29.97
   },
   {
     "title": "Chrzest ognia",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.4,
-    "numberOfRatings": 29684,
+    "numberOfRatings": 29811,
     "numberOfPages": 382,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-28",
+    "price": 28.51
   },
   {
     "title": "Drużyna Pierścienia",
     "author": "J.R.R. Tolkien",
     "publisher": "Amber",
     "rating": 8.4,
-    "numberOfRatings": 28850,
+    "numberOfRatings": 28911,
     "numberOfPages": 448,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-30",
+    "price": 9.51
   },
   {
     "title": "Wieża Jaskółki",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.3,
-    "numberOfRatings": 26151,
+    "numberOfRatings": 26262,
     "numberOfPages": 488,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-28",
+    "price": 31.55
   },
   {
     "title": "Pani Jeziora",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.2,
-    "numberOfRatings": 26051,
+    "numberOfRatings": 26156,
     "numberOfPages": 596,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-28",
+    "price": 29.42
   },
   {
     "title": "Czas pogardy",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 8.2,
-    "numberOfRatings": 25496,
+    "numberOfRatings": 25621,
     "numberOfPages": 368,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-28",
+    "price": 28.37
   },
   {
     "title": "Powrót Króla",
     "author": "J.R.R. Tolkien",
     "publisher": "Zysk i S-ka",
     "rating": 8.6,
-    "numberOfRatings": 24219,
+    "numberOfRatings": 24269,
     "numberOfPages": 608,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-15",
+    "price": 16.17
   },
   {
     "title": "Starcie królów",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8.4,
-    "numberOfRatings": 23951,
+    "numberOfRatings": 23997,
     "numberOfPages": 1084,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-12",
+    "price": 31.84
   },
   {
     "title": "Miasto kości",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 7.8,
-    "numberOfRatings": 23952,
+    "numberOfRatings": 23999,
     "numberOfPages": 528,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-08",
+    "price": 22.75
   },
   {
     "title": "Metro 2033",
     "author": "Dmitry Glukhovsky",
     "publisher": "Insignis",
     "rating": 7.8,
-    "numberOfRatings": 20839,
+    "numberOfRatings": 20913,
     "numberOfPages": 578,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 25.43
   },
   {
     "title": "Nawałnica mieczy: Stal i śnieg",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8.4,
-    "numberOfRatings": 19902,
+    "numberOfRatings": 14651,
     "numberOfPages": 736,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-04-02",
+    "price": 31.84
   },
   {
     "title": "Lew, czarownica i stara szafa",
     "author": "Clive Staples Lewis",
     "publisher": "Media Rodzina",
     "rating": 7.3,
-    "numberOfRatings": 19893,
+    "numberOfRatings": 19966,
     "numberOfPages": 182,
-    "yearOfPublish": 2005
+    "dateOfPublish": "2005-01-01",
+    "price": 11.47
   },
   {
     "title": "Nawałnica mieczy: Krew i złoto",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8.5,
-    "numberOfRatings": 19630,
+    "numberOfRatings": 11073,
     "numberOfPages": 636,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-07",
+    "price": 31.84
   },
   {
     "title": "Szeptem",
     "author": "Becca Fitzpatrick",
     "publisher": "Otwarte",
     "rating": 7.4,
-    "numberOfRatings": 18651,
+    "numberOfRatings": 18681,
     "numberOfPages": 328,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-13",
+    "price": null
   },
   {
     "title": "Miasto popiołów",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 7.9,
-    "numberOfRatings": 18191,
+    "numberOfRatings": 18222,
     "numberOfPages": 432,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-08",
+    "price": 22.75
   },
   {
     "title": "Niezgodna",
     "author": "Veronica Roth",
     "publisher": "Amber",
     "rating": 7.5,
-    "numberOfRatings": 17546,
+    "numberOfRatings": 17569,
     "numberOfPages": 352,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-03",
+    "price": null
   },
   {
     "title": "Uczta dla wron: Cienie śmierci",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 7.8,
-    "numberOfRatings": 17342,
+    "numberOfRatings": 17374,
     "numberOfPages": 480,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-04-13",
+    "price": 31.84
   },
   {
     "title": "Pan Lodowego Ogrodu - tom I",
     "author": "Jarosław Grzędowicz",
     "publisher": "Fabryka Słów",
     "rating": 8.1,
-    "numberOfRatings": 16926,
+    "numberOfRatings": 17006,
     "numberOfPages": 560,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-05-11",
+    "price": 27.97
   },
   {
     "title": "Władca Pierścieni",
     "author": "J.R.R. Tolkien",
     "publisher": "Amber",
     "rating": 8.7,
-    "numberOfRatings": 16875,
+    "numberOfRatings": 16923,
     "numberOfPages": 1024,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-09-02",
+    "price": 16.17
   },
   {
     "title": "Intruz",
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 7.6,
-    "numberOfRatings": 16818,
+    "numberOfRatings": 16841,
     "numberOfPages": 568,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-04-03",
+    "price": null
   },
   {
     "title": "Gildia Magów",
     "author": "Trudi Canavan",
     "publisher": "Galeria Książki",
     "rating": 7.2,
-    "numberOfRatings": 16767,
+    "numberOfRatings": 16805,
     "numberOfPages": 520,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-10",
+    "price": 24.13
   },
   {
     "title": "Miasto szkła",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.1,
-    "numberOfRatings": 16755,
+    "numberOfRatings": 16782,
     "numberOfPages": 544,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-11-08",
+    "price": 25.05
   },
   {
     "title": "Sezon burz",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 7.3,
-    "numberOfRatings": 16711,
+    "numberOfRatings": 16782,
     "numberOfPages": 404,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-06",
+    "price": 26.84
   },
   {
     "title": "Eragon",
     "author": "Christopher Paolini",
     "publisher": "Mag",
     "rating": 6.8,
-    "numberOfRatings": 16407,
+    "numberOfRatings": 16430,
     "numberOfPages": 496,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-16",
+    "price": 48.8
   },
   {
     "title": "Uczta dla wron: Sieć spisków",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 7.9,
-    "numberOfRatings": 16238,
+    "numberOfRatings": 16266,
     "numberOfPages": 504,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-04-13",
+    "price": 27.88
   },
   {
     "title": "Taniec ze smokami. Część 1",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8,
-    "numberOfRatings": 15310,
+    "numberOfRatings": 15354,
     "numberOfPages": 632,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-25",
+    "price": 29.5
   },
   {
     "title": "Taniec ze smokami. Część 2",
     "author": "George R.R. Martin",
     "publisher": "Zysk i S-ka",
     "rating": 8.2,
-    "numberOfRatings": 14147,
+    "numberOfRatings": 14176,
     "numberOfPages": 688,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-25",
+    "price": 29.5
   },
   {
     "title": "Nowicjuszka",
     "author": "Trudi Canavan",
     "publisher": "Galeria Książki",
     "rating": 7.5,
-    "numberOfRatings": 13771,
+    "numberOfRatings": 13801,
     "numberOfPages": 520,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-01-01",
+    "price": 10.89
   },
   {
     "title": "Crescendo",
     "author": "Becca Fitzpatrick",
     "publisher": "Otwarte",
     "rating": 7.6,
-    "numberOfRatings": 13034,
+    "numberOfRatings": 13048,
     "numberOfPages": 400,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-12",
+    "price": null
   },
   {
     "title": "Pan Lodowego Ogrodu - tom II",
     "author": "Jarosław Grzędowicz",
     "publisher": "Fabryka Słów",
     "rating": 7.9,
-    "numberOfRatings": 13015,
+    "numberOfRatings": 13054,
     "numberOfPages": 656,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-05-11",
+    "price": 25.63
   },
   {
     "title": "Wielki Mistrz",
     "author": "Trudi Canavan",
     "publisher": "Galeria Książki",
     "rating": 7.8,
-    "numberOfRatings": 12850,
+    "numberOfRatings": 12875,
     "numberOfPages": 656,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-08-01",
+    "price": 9.95
   },
   {
     "title": "Miasto Upadłych Aniołów",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 7.9,
-    "numberOfRatings": 12684,
+    "numberOfRatings": 12709,
     "numberOfPages": 448,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-09-25",
+    "price": null
   },
   {
     "title": "Zbuntowana",
     "author": "Veronica Roth",
     "publisher": "Amber",
     "rating": 7.3,
-    "numberOfRatings": 12527,
+    "numberOfRatings": 12548,
     "numberOfPages": 368,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-03",
+    "price": null
   },
   {
     "title": "Narrenturm",
     "author": "Andrzej Sapkowski",
     "publisher": "Niezależna Oficyna Wydawnicza NOWA",
     "rating": 7.6,
-    "numberOfRatings": 12484,
+    "numberOfRatings": 12515,
     "numberOfPages": 593,
-    "yearOfPublish": 2002
+    "dateOfPublish": "2002-01-01",
+    "price": null
   },
   {
     "title": "Kroniki Jakuba Wędrowycza",
     "author": "Andrzej Pilipiuk",
     "publisher": "Fabryka Słów",
     "rating": 7.1,
-    "numberOfRatings": 12094,
+    "numberOfRatings": 12124,
     "numberOfPages": 296,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-01",
+    "price": null
   },
   {
     "title": "Dziedzictwo",
     "author": "Christopher Paolini",
     "publisher": "Mag",
     "rating": 7.2,
-    "numberOfRatings": 12087,
+    "numberOfRatings": 12098,
     "numberOfPages": 816,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-16",
+    "price": null
   },
   {
     "title": "Solaris",
     "author": "Stanisław Lem",
     "publisher": "Wydawnictwo Literackie",
     "rating": 7.8,
-    "numberOfRatings": 11837,
+    "numberOfRatings": 11886,
     "numberOfPages": 340,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-03-01",
+    "price": 24.46
   },
   {
     "title": "Pan Lodowego Ogrodu - tom III",
     "author": "Jarosław Grzędowicz",
     "publisher": "Fabryka Słów",
     "rating": 8.1,
-    "numberOfRatings": 11576,
+    "numberOfRatings": 11606,
     "numberOfPages": 512,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-05-11",
+    "price": 25.63
   },
   {
     "title": "Naznaczona",
     "author": "Kristin Cast, Phyllis Christine Cast",
     "publisher": "Książnica",
     "rating": 6.4,
-    "numberOfRatings": 11314,
+    "numberOfRatings": 11321,
     "numberOfPages": 328,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-11-13",
+    "price": null
   },
   {
     "title": "Achaja - Tom I",
     "author": "Andrzej Ziemiański",
     "publisher": "Fabryka Słów",
     "rating": 7.1,
-    "numberOfRatings": 11302,
+    "numberOfRatings": 11330,
     "numberOfPages": 688,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-03-25",
+    "price": 25.46
   },
   {
     "title": "Najstarszy",
     "author": "Christopher Paolini",
     "publisher": "Mag",
     "rating": 7,
-    "numberOfRatings": 11122,
+    "numberOfRatings": 11133,
     "numberOfPages": 688,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-16",
+    "price": null
   },
   {
     "title": "Dwie wieże",
     "author": "J.R.R. Tolkien",
     "publisher": "Zysk i S-ka",
     "rating": 8.6,
-    "numberOfRatings": 11056,
+    "numberOfRatings": 11118,
     "numberOfPages": 501,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-15",
+    "price": 16.17
   },
   {
     "title": "Cisza",
     "author": "Becca Fitzpatrick",
     "publisher": "Otwarte",
     "rating": 7.8,
-    "numberOfRatings": 11056,
+    "numberOfRatings": 11072,
     "numberOfPages": 400,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-10-19",
+    "price": null
   },
   {
     "title": "Kolor magii",
     "author": "Terry Pratchett",
     "publisher": "Prószyński i S-ka",
     "rating": 7.1,
-    "numberOfRatings": 11017,
+    "numberOfRatings": 11044,
     "numberOfPages": 208,
-    "yearOfPublish": 1994
+    "dateOfPublish": "1994-09-05",
+    "price": 17.72
   },
   {
     "title": "Złodziej Pioruna",
     "author": "Rick Riordan",
     "publisher": "Galeria Książki",
     "rating": 8,
-    "numberOfRatings": 10966,
+    "numberOfRatings": 11007,
     "numberOfPages": 360,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-17",
+    "price": 22.03
   },
   {
     "title": "Książę Kaspian",
     "author": "Clive Staples Lewis",
     "publisher": "Media Rodzina",
     "rating": 7,
-    "numberOfRatings": 10943,
+    "numberOfRatings": 11061,
     "numberOfPages": 222,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-05-16",
+    "price": 11.48
   },
   {
     "title": "Silmarillion. Wersja ilustrowana",
     "author": "J.R.R. Tolkien",
     "publisher": "Zysk i S-ka",
     "rating": 8,
-    "numberOfRatings": 10467,
+    "numberOfRatings": 10488,
     "numberOfPages": 482,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-09-25",
+    "price": 45.4
   },
   {
     "title": "Miasto zagubionych dusz",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.2,
-    "numberOfRatings": 10465,
+    "numberOfRatings": 10487,
     "numberOfPages": 556,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-09-25",
+    "price": null
   },
   {
     "title": "Diuna",
     "author": "Frank Herbert",
     "publisher": "Rebis",
     "rating": 8.2,
-    "numberOfRatings": 10385,
+    "numberOfRatings": 10513,
     "numberOfPages": 784,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-05",
+    "price": 24.72
   },
   {
     "title": "Gra Endera",
     "author": "Orson Scott Card",
     "publisher": "Prószyński i S-ka",
     "rating": 8,
-    "numberOfRatings": 10282,
+    "numberOfRatings": 10298,
     "numberOfPages": 328,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-10-15",
+    "price": 18.96
   },
   {
     "title": "Metro 2034",
     "author": "Dmitry Glukhovsky",
     "publisher": "Insignis",
     "rating": 6.6,
-    "numberOfRatings": 10209,
+    "numberOfRatings": 10246,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 25.43
   },
   {
     "title": "Boży bojownicy",
     "author": "Andrzej Sapkowski",
     "publisher": "Niezależna Oficyna Wydawnicza NOWA",
     "rating": 7.7,
-    "numberOfRatings": 10026,
+    "numberOfRatings": 10054,
     "numberOfPages": 587,
-    "yearOfPublish": 2004
+    "dateOfPublish": "2004-01-01",
+    "price": 30.02
   },
   {
     "title": "Pan Lodowego Ogrodu - tom IV",
     "author": "Jarosław Grzędowicz",
     "publisher": "Fabryka Słów",
     "rating": 8.1,
-    "numberOfRatings": 9908,
+    "numberOfRatings": 9943,
     "numberOfPages": 880,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-11-30",
+    "price": 28.86
   },
   {
     "title": "Mechaniczny anioł",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.1,
-    "numberOfRatings": 9873,
+    "numberOfRatings": 9885,
     "numberOfPages": 472,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-20",
+    "price": 25.07
   },
   {
     "title": "Wierna",
     "author": "Veronica Roth",
     "publisher": "Amber",
     "rating": 7.2,
-    "numberOfRatings": 9723,
+    "numberOfRatings": 9742,
     "numberOfPages": 380,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-29",
+    "price": 19.9
   },
   {
     "title": "Dotyk Julii",
     "author": "Tahereh Mafi",
     "publisher": "Otwarte",
     "rating": 7.7,
-    "numberOfRatings": 9684,
+    "numberOfRatings": 9693,
     "numberOfPages": 336,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-28",
+    "price": null
   },
   {
     "title": "Wywiad z wampirem",
     "author": "Anne Rice",
     "publisher": "Rebis",
     "rating": 7.3,
-    "numberOfRatings": 9618,
+    "numberOfRatings": 9633,
     "numberOfPages": 400,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-05",
+    "price": 12.45
   },
   {
     "title": "Ruiny Gorlanu",
     "author": "John Flanagan",
     "publisher": "Jaguar",
     "rating": 7.8,
-    "numberOfRatings": 9567,
+    "numberOfRatings": 9606,
     "numberOfPages": 320,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-03-01",
+    "price": 19.49
   },
   {
     "title": "Szklany tron",
     "author": "Sarah J. Maas",
     "publisher": "Uroboros",
     "rating": 7.9,
-    "numberOfRatings": 9557,
+    "numberOfRatings": 9607,
     "numberOfPages": null,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-13",
+    "price": 24.04
   },
   {
     "title": "Więzień labiryntu",
     "author": "James Dashner",
     "publisher": "Papierowy Księżyc",
     "rating": 7.7,
-    "numberOfRatings": 9499,
+    "numberOfRatings": 9517,
     "numberOfPages": 424,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-09-12",
+    "price": 19.55
   },
   {
     "title": "Brisingr",
     "author": "Christopher Paolini",
     "publisher": "Mag",
     "rating": 7.1,
-    "numberOfRatings": 9451,
+    "numberOfRatings": 9460,
     "numberOfPages": 704,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-10-16",
+    "price": 11.81
   },
   {
     "title": "Achaja - Tom II",
     "author": "Andrzej Ziemiański",
     "publisher": "Fabryka Słów",
     "rating": 7.1,
-    "numberOfRatings": 9200,
+    "numberOfRatings": 9220,
     "numberOfPages": 644,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-04-29",
+    "price": 25.63
   },
   {
     "title": "Malowany człowiek: Księga I",
     "author": "Peter V. Brett",
     "publisher": "Fabryka Słów",
     "rating": 7.9,
-    "numberOfRatings": 8932,
+    "numberOfRatings": 9003,
     "numberOfPages": 504,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-12-01",
+    "price": 25.29
   },
   {
     "title": "Lux perpetua",
     "author": "Andrzej Sapkowski",
     "publisher": "Niezależna Oficyna Wydawnicza NOWA",
     "rating": 7.7,
-    "numberOfRatings": 8679,
+    "numberOfRatings": 8700,
     "numberOfPages": 560,
-    "yearOfPublish": 2006
+    "dateOfPublish": "2006-01-01",
+    "price": 30.02
   },
   {
     "title": "Marsjanin",
     "author": "Andy Weir",
     "publisher": "Akurat",
     "rating": 7.9,
-    "numberOfRatings": 8627,
+    "numberOfRatings": 8653,
     "numberOfPages": 384,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-19",
+    "price": 7.45
   },
   {
     "title": "Drugie życie Bree Tanner",
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 5.8,
-    "numberOfRatings": 8610,
+    "numberOfRatings": 8619,
     "numberOfPages": 201,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-06-01",
+    "price": 14.96
   },
   {
     "title": "Finale",
     "author": "Becca Fitzpatrick",
     "publisher": "Otwarte",
     "rating": 8,
-    "numberOfRatings": 8604,
+    "numberOfRatings": 8616,
     "numberOfPages": 424,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-11-07",
+    "price": null
   },
   {
     "title": "Amerykańscy bogowie",
     "author": "Neil Gaiman",
     "publisher": "Mag",
     "rating": 7.4,
-    "numberOfRatings": 8545,
+    "numberOfRatings": 8566,
     "numberOfPages": 608,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-09",
+    "price": 28.87
   },
   {
     "title": "Bastion",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.9,
-    "numberOfRatings": 8514,
+    "numberOfRatings": 8541,
     "numberOfPages": 1166,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-09-19",
+    "price": 33.55
   },
   {
     "title": "Szeptucha",
     "author": "Katarzyna Berenika Miszczuk",
     "publisher": "W.A.B.",
     "rating": 7.2,
-    "numberOfRatings": 8473,
+    "numberOfRatings": 8535,
     "numberOfPages": 416,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-03",
+    "price": 9.74
   },
   {
     "title": "Dallas '63",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 8.2,
-    "numberOfRatings": 8406,
+    "numberOfRatings": 8430,
     "numberOfPages": 864,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-11-08",
+    "price": 29.04
   },
   {
     "title": "Achaja - Tom III",
     "author": "Andrzej Ziemiański",
     "publisher": "Fabryka Słów",
     "rating": 6.7,
-    "numberOfRatings": 8363,
+    "numberOfRatings": 8384,
     "numberOfPages": 409,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-01-27",
+    "price": 22.41
   },
   {
     "title": "Vampire Academy",
     "author": "Richelle Mead",
     "publisher": "Penguin Books",
     "rating": 7.7,
-    "numberOfRatings": 8294,
+    "numberOfRatings": 8304,
     "numberOfPages": 332,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": 6.99
   },
   {
     "title": "Kłamca",
     "author": "Jakub Ćwiek",
     "publisher": "Sine Qua Non",
     "rating": 7.2,
-    "numberOfRatings": 8283,
+    "numberOfRatings": 8290,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 12.72
   },
   {
     "title": "Zdradzona",
     "author": "Kristin Cast, Phyllis Christine Cast",
     "publisher": "Książnica",
     "rating": 6.6,
-    "numberOfRatings": 8266,
+    "numberOfRatings": 8270,
     "numberOfPages": 348,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-27",
+    "price": 7.45
   },
   {
     "title": "Blask fantastyczny",
     "author": "Terry Pratchett",
     "publisher": "Prószyński i S-ka",
     "rating": 7.4,
-    "numberOfRatings": 8237,
+    "numberOfRatings": 8254,
     "numberOfPages": 236,
-    "yearOfPublish": 1995
+    "dateOfPublish": "1995-04-06",
+    "price": 17.72
   },
   {
     "title": "Czerwona Królowa",
     "author": "Victoria Aveyard",
     "publisher": "Moondrive",
     "rating": 7.5,
-    "numberOfRatings": 8187,
+    "numberOfRatings": 8204,
     "numberOfPages": 488,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-18",
+    "price": null
   },
   {
     "title": "Coś się kończy, coś się zaczyna",
     "author": "Andrzej Sapkowski",
     "publisher": "superNOWA",
     "rating": 7.4,
-    "numberOfRatings": 8013,
+    "numberOfRatings": 8014,
     "numberOfPages": 299,
-    "yearOfPublish": 2000
+    "dateOfPublish": "2000-12-01",
+    "price": null
   },
   {
     "title": "Droga",
     "author": "Cormac McCarthy",
     "publisher": "Wydawnictwo Literackie",
     "rating": 7.7,
-    "numberOfRatings": 7990,
+    "numberOfRatings": 8028,
     "numberOfPages": 272,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-05-08",
+    "price": 22.69
   },
   {
     "title": "Mort",
     "author": "Terry Pratchett",
     "publisher": "Prószyński i S-ka",
     "rating": 7.6,
-    "numberOfRatings": 7987,
+    "numberOfRatings": 7999,
     "numberOfPages": 262,
-    "yearOfPublish": 1996
+    "dateOfPublish": "1996-08-06",
+    "price": 17.73
   },
   {
     "title": "Klątwa Tytana",
     "author": "Rick Riordan",
     "publisher": "Galeria Książki",
     "rating": 8.2,
-    "numberOfRatings": 7950,
+    "numberOfRatings": 7982,
     "numberOfPages": 312,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-17",
+    "price": 19.01
   },
   {
     "title": "Ja, inkwizytor. Sługa Boży",
     "author": "Jacek Piekara",
     "publisher": "Fabryka Słów",
     "rating": 7.2,
-    "numberOfRatings": 7931,
+    "numberOfRatings": 7954,
     "numberOfPages": 385,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-13",
+    "price": 25.62
   },
   {
     "title": "Roland",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 7908,
+    "numberOfRatings": 7927,
     "numberOfPages": 320,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-07-19",
+    "price": 19.4
   },
   {
     "title": "Mechaniczny książę",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.4,
-    "numberOfRatings": 7871,
+    "numberOfRatings": 7883,
     "numberOfPages": 464,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-20",
+    "price": null
   },
   {
     "title": "Malowany człowiek: Księga II",
     "author": "Peter V. Brett",
     "publisher": "Fabryka Słów",
     "rating": 8,
-    "numberOfRatings": 7808,
+    "numberOfRatings": 7840,
     "numberOfPages": 320,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-02-13",
+    "price": 22.94
   },
   {
     "title": "Siewca Wiatru",
     "author": "Maja Lidia Kossakowska",
     "publisher": "Fabryka Słów",
     "rating": 7.4,
-    "numberOfRatings": 7796,
+    "numberOfRatings": 7815,
     "numberOfPages": 656,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-06-13",
+    "price": 28.85
   },
   {
     "title": "Czarownik Iwanow",
     "author": "Andrzej Pilipiuk",
     "publisher": "Fabryka Słów",
     "rating": 7.1,
-    "numberOfRatings": 7793,
+    "numberOfRatings": 7812,
     "numberOfPages": 272,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-01",
+    "price": 22.69
   },
   {
     "title": "Delirium",
     "author": "Lauren Oliver",
     "publisher": "Moondrive",
     "rating": 7.8,
-    "numberOfRatings": 7786,
+    "numberOfRatings": 7799,
     "numberOfPages": 360,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-04-18",
+    "price": 19.44
   },
   {
     "title": "Morze Potworów",
     "author": "Rick Riordan",
     "publisher": "Galeria Książki",
     "rating": 7.9,
-    "numberOfRatings": 7711,
+    "numberOfRatings": 7740,
     "numberOfPages": 280,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-17",
+    "price": 18.27
   },
   {
     "title": "Upadli",
     "author": "Lauren Kate",
     "publisher": "Mag",
     "rating": 6.8,
-    "numberOfRatings": 7663,
+    "numberOfRatings": 7665,
     "numberOfPages": 480,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-05-19",
+    "price": null
   },
   {
     "title": "Miasto niebiańskiego ognia",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.4,
-    "numberOfRatings": 7656,
+    "numberOfRatings": 7678,
     "numberOfPages": 702,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-09-24",
+    "price": null
   },
   {
     "title": "Droga Królów",
     "author": "Brandon Sanderson",
     "publisher": "Mag",
     "rating": 8.9,
-    "numberOfRatings": 7556,
+    "numberOfRatings": 7597,
     "numberOfPages": 1136,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-13",
+    "price": 37.43
   },
   {
     "title": "Bitwa w Labiryncie",
     "author": "Rick Riordan",
     "publisher": "Galeria Książki",
     "rating": 8.3,
-    "numberOfRatings": 7360,
+    "numberOfRatings": 7386,
     "numberOfPages": 364,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-17",
+    "price": 22.07
   },
   {
     "title": "Pod kopułą",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.4,
-    "numberOfRatings": 7341,
+    "numberOfRatings": 7357,
     "numberOfPages": 928,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-03-09",
+    "price": 29.05
   },
   {
     "title": "Wybrana",
     "author": "Kristin Cast, Phyllis Christine Cast",
     "publisher": "Książnica",
     "rating": 6.7,
-    "numberOfRatings": 7202,
+    "numberOfRatings": 7206,
     "numberOfPages": 296,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-05-05",
+    "price": 7.45
   },
   {
     "title": "Weźmisz czarno kure...",
     "author": "Andrzej Pilipiuk",
     "publisher": "Fabryka Słów",
     "rating": 7.3,
-    "numberOfRatings": 7196,
+    "numberOfRatings": 7214,
     "numberOfPages": 392,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-01",
+    "price": 35.9
   },
   {
     "title": "Nigdziebądź",
     "author": "Neil Gaiman",
     "publisher": "Mag",
     "rating": 7.4,
-    "numberOfRatings": 7123,
+    "numberOfRatings": 7141,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-08-31",
+    "price": 28.87
   },
   {
     "title": "Czarnoksiężnik z Archipelagu",
     "author": "Ursula K. Le Guin",
     "publisher": "Prószyński i S-ka",
     "rating": 7.1,
-    "numberOfRatings": 7115,
+    "numberOfRatings": 7137,
     "numberOfPages": 240,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-09-23",
+    "price": 17.77
   },
   {
     "title": "Ostatni Olimpijczyk",
     "author": "Rick Riordan",
     "publisher": "Galeria Książki",
     "rating": 8.5,
-    "numberOfRatings": 7089,
+    "numberOfRatings": 7119,
     "numberOfPages": 376,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-17",
+    "price": 22.5
   },
   {
     "title": "Osobliwy dom pani Peregrine",
     "author": "Ransom Riggs",
     "publisher": "Media Rodzina",
     "rating": 7.2,
-    "numberOfRatings": 7077,
+    "numberOfRatings": 7100,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-09-18",
+    "price": 21.14
   },
   {
     "title": "Ja, inkwizytor. Młot na czarownice",
     "author": "Jacek Piekara",
     "publisher": "Fabryka Słów",
     "rating": 7.3,
-    "numberOfRatings": 6917,
+    "numberOfRatings": 6935,
     "numberOfPages": 352,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-01-01",
+    "price": 12.41
   },
   {
     "title": "Mechaniczna księżniczka",
     "author": "Cassandra Clare",
     "publisher": "Mag",
     "rating": 8.6,
-    "numberOfRatings": 6862,
+    "numberOfRatings": 6875,
     "numberOfPages": 400,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-20",
+    "price": null
   },
   {
     "title": "Pamiętniki Wampirów Księga 1: Przebudzenie walka szał",
     "author": "Lisa Jane Smith",
     "publisher": "Amber",
     "rating": 6.2,
-    "numberOfRatings": 6739,
+    "numberOfRatings": 6877,
     "numberOfPages": 508,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-02-01",
+    "price": null
   },
   {
     "title": "Gwiezdny pył",
     "author": "Neil Gaiman",
     "publisher": "Mag",
     "rating": 7,
-    "numberOfRatings": 6715,
+    "numberOfRatings": 6734,
     "numberOfPages": 200,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-10-26",
+    "price": null
   },
   {
     "title": "Korona w mroku",
     "author": "Sarah J. Maas",
     "publisher": "Uroboros",
     "rating": 8.2,
-    "numberOfRatings": 6708,
+    "numberOfRatings": 6744,
     "numberOfPages": 495,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-02",
+    "price": 25.07
   },
   {
     "title": "Siostrzeniec czarodzieja",
     "author": "Clive Staples Lewis",
     "publisher": "Media Rodzina",
     "rating": 7.3,
-    "numberOfRatings": 6705,
+    "numberOfRatings": 6724,
     "numberOfPages": 200,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": null
   },
   {
     "title": "Koń i jego chłopiec",
     "author": "Clive Staples Lewis",
     "publisher": "Media Rodzina",
     "rating": 7.2,
-    "numberOfRatings": 6583,
+    "numberOfRatings": 6604,
     "numberOfPages": 215,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": null
   },
   {
     "title": "Uczennica maga",
     "author": "Trudi Canavan",
     "publisher": "Galeria Książki",
     "rating": 7.3,
-    "numberOfRatings": 6573,
+    "numberOfRatings": 6583,
     "numberOfPages": 816,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-02-24",
+    "price": null
   },
   {
     "title": "Koralina",
     "author": "Neil Gaiman",
     "publisher": "Mag",
     "rating": 7.1,
-    "numberOfRatings": 6528,
+    "numberOfRatings": 6547,
     "numberOfPages": 112,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-24",
+    "price": 42.68
   },
   {
     "title": "Nieposkromiona",
     "author": "Kristin Cast, Phyllis Christine Cast",
     "publisher": "Książnica",
     "rating": 6.8,
-    "numberOfRatings": 6358,
+    "numberOfRatings": 6362,
     "numberOfPages": 360,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-10-06",
+    "price": 18.5
   },
   {
     "title": "Pustynna Włócznia: Księga I",
     "author": "Peter V. Brett",
     "publisher": "Fabryka Słów",
     "rating": 7.9,
-    "numberOfRatings": 6333,
+    "numberOfRatings": 6360,
     "numberOfPages": 528,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-06-18",
+    "price": 25.64
   },
   {
     "title": "Próby ognia",
     "author": "James Dashner",
     "publisher": "Papierowy Księżyc",
     "rating": 7.7,
-    "numberOfRatings": 6329,
+    "numberOfRatings": 6340,
     "numberOfPages": 424,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-09-02",
+    "price": 19.54
   },
   {
     "title": "Ever",
     "author": "Alyson Noël",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.5,
-    "numberOfRatings": 6328,
+    "numberOfRatings": 6333,
     "numberOfPages": 297,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-02-10",
+    "price": null
   },
   {
     "title": "Równoumagicznienie",
     "author": "Terry Pratchett",
     "publisher": "Prószyński i S-ka",
     "rating": 7.1,
-    "numberOfRatings": 6266,
+    "numberOfRatings": 6280,
     "numberOfPages": 200,
-    "yearOfPublish": 2006
+    "dateOfPublish": "2006-01-10",
+    "price": 48.56
   }
 ]

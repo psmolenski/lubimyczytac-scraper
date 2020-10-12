@@ -4,711 +4,790 @@
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.6,
-    "numberOfRatings": 18871,
+    "numberOfRatings": 18929,
     "numberOfPages": 416,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-04-23",
+    "price": 11.99
   },
   {
     "title": "Carrie",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 17108,
+    "numberOfRatings": 17145,
     "numberOfPages": 216,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-06-28",
+    "price": 19.55
   },
   {
     "title": "Miasteczko Salem",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.3,
-    "numberOfRatings": 15857,
+    "numberOfRatings": 15888,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-17",
+    "price": 21.4
   },
   {
     "title": "To",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 10460,
+    "numberOfRatings": 10498,
     "numberOfPages": 1104,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-08-14",
+    "price": 29.79
   },
   {
     "title": "Ręka mistrza",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.6,
-    "numberOfRatings": 10236,
+    "numberOfRatings": 10251,
     "numberOfPages": 640,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-09-18",
+    "price": 23.11
   },
   {
     "title": "Joyland",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6.9,
-    "numberOfRatings": 10184,
+    "numberOfRatings": 10207,
     "numberOfPages": 336,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-06-06",
+    "price": 21.34
   },
   {
     "title": "Cztery pory roku",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 8983,
+    "numberOfRatings": 9007,
     "numberOfPages": 512,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-05-08",
+    "price": 24.66
   },
   {
     "title": "Sklepik z marzeniami",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.1,
-    "numberOfRatings": 8128,
+    "numberOfRatings": 8137,
     "numberOfPages": 672,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-17",
+    "price": 25.94
   },
   {
     "title": "Komórka",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.3,
-    "numberOfRatings": 7132,
+    "numberOfRatings": 7142,
     "numberOfPages": 432,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-04",
+    "price": 11.8
   },
   {
     "title": "Lśnienie",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.7,
-    "numberOfRatings": 7098,
+    "numberOfRatings": 7136,
     "numberOfPages": 515,
-    "yearOfPublish": 1997
+    "dateOfPublish": "1997-01-01",
+    "price": 21.33
   },
   {
     "title": "Doktor Sen",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.5,
-    "numberOfRatings": 7044,
+    "numberOfRatings": 7068,
     "numberOfPages": 656,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-07",
+    "price": 9.99
   },
   {
     "title": "Christine",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.2,
-    "numberOfRatings": 7033,
+    "numberOfRatings": 7041,
     "numberOfPages": 528,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": 12.67
   },
   {
     "title": "Dracula",
     "author": "Bram Stoker",
     "publisher": "Vesper",
     "rating": 7.5,
-    "numberOfRatings": 6929,
+    "numberOfRatings": 6948,
     "numberOfPages": 428,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-01-16",
+    "price": 8.84
   },
   {
     "title": "Cujo",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.7,
-    "numberOfRatings": 6849,
+    "numberOfRatings": 6866,
     "numberOfPages": 464,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-08-08",
+    "price": 24.66
   },
   {
     "title": "Bezsenność",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.4,
-    "numberOfRatings": 6220,
+    "numberOfRatings": 6225,
     "numberOfPages": 656,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-25",
+    "price": 29.14
   },
   {
     "title": "Podpalaczka",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 5576,
+    "numberOfRatings": 5592,
     "numberOfPages": 512,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-08-28",
+    "price": 21.42
   },
   {
     "title": "Desperacja",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.6,
-    "numberOfRatings": 5414,
+    "numberOfRatings": 5422,
     "numberOfPages": 544,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-10-28",
+    "price": 25.05
   },
   {
     "title": "Domofon",
     "author": "Zygmunt Miłoszewski",
     "publisher": "W.A.B.",
     "rating": 6.6,
-    "numberOfRatings": 5204,
+    "numberOfRatings": 5221,
     "numberOfPages": 382,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": 12.33
   },
   {
     "title": "Czarna bezgwiezdna noc",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 4685,
+    "numberOfRatings": 4693,
     "numberOfPages": 487,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-01",
+    "price": 10.24
   },
   {
     "title": "Czarna Madonna",
     "author": "Remigiusz Mróz",
     "publisher": "Czwarta Strona",
     "rating": 5.8,
-    "numberOfRatings": 4620,
+    "numberOfRatings": 4645,
     "numberOfPages": 460,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-07-19",
+    "price": null
   },
   {
     "title": "Chudszy",
     "author": "Richard Bachman",
     "publisher": "Albatros",
     "rating": 6.7,
-    "numberOfRatings": 4596,
+    "numberOfRatings": 4606,
     "numberOfPages": 298,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-07-12",
+    "price": 12.5
   },
   {
     "title": "Łowca snów",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.6,
-    "numberOfRatings": 4309,
+    "numberOfRatings": 4316,
     "numberOfPages": 768,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-24",
+    "price": 27.9
   },
   {
     "title": "Worek kości",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.1,
-    "numberOfRatings": 4275,
+    "numberOfRatings": 4281,
     "numberOfPages": 608,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-10-02",
+    "price": null
   },
   {
     "title": "Dziewczyna z sąsiedztwa",
     "author": "Jack Ketchum",
     "publisher": "Papierowy Księżyc",
     "rating": 7.8,
-    "numberOfRatings": 4208,
+    "numberOfRatings": 4228,
     "numberOfPages": 380,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-09",
+    "price": 19.19
   },
   {
     "title": "Rose Madder",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 4076,
+    "numberOfRatings": 4082,
     "numberOfPages": 448,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-11-21",
+    "price": 9.62
   },
   {
     "title": "Bazar złych snów",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6.8,
-    "numberOfRatings": 4014,
+    "numberOfRatings": 4021,
     "numberOfPages": 672,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-05",
+    "price": 8.83
   },
   {
     "title": "Księga jesiennych demonów",
     "author": "Jarosław Grzędowicz",
     "publisher": "Fabryka Słów",
     "rating": 7.2,
-    "numberOfRatings": 3702,
+    "numberOfRatings": 3713,
     "numberOfPages": 472,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-06-20",
+    "price": null
   },
   {
     "title": "Nocna zmiana",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.1,
-    "numberOfRatings": 3691,
+    "numberOfRatings": 3699,
     "numberOfPages": 480,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-08-12",
+    "price": 24.9
   },
   {
     "title": "Uciekinier",
     "author": "Richard Bachman",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 3617,
+    "numberOfRatings": 3631,
     "numberOfPages": 282,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-12-27",
+    "price": 23.57
   },
   {
     "title": "Szkieletowa załoga",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6.9,
-    "numberOfRatings": 3395,
+    "numberOfRatings": 3419,
     "numberOfPages": 648,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-11-29",
+    "price": 15.49
   },
   {
     "title": "Rok wilkołaka",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 5.4,
-    "numberOfRatings": 3256,
+    "numberOfRatings": 3263,
     "numberOfPages": 144,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-13",
+    "price": null
   },
   {
     "title": "Mroczna połowa",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.8,
-    "numberOfRatings": 3219,
+    "numberOfRatings": 3226,
     "numberOfPages": 528,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-22",
+    "price": 25.35
   },
   {
     "title": "Instytut",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 3180,
+    "numberOfRatings": 3250,
     "numberOfPages": 672,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-09-11",
+    "price": 31.62
   },
   {
     "title": "Frankenstein",
     "author": "Mary Shelley",
     "publisher": "Vesper",
     "rating": 7.2,
-    "numberOfRatings": 3165,
+    "numberOfRatings": 3186,
     "numberOfPages": 320,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-09-25",
+    "price": 8.63
   },
   {
     "title": "Marzenia i koszmary",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.6,
-    "numberOfRatings": 3094,
+    "numberOfRatings": 3102,
     "numberOfPages": 752,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-15",
+    "price": 29.79
   },
   {
     "title": "Zew Cthulhu",
     "author": "H.P. Lovecraft",
     "publisher": "C&T Crime & Thriller",
     "rating": 7.6,
-    "numberOfRatings": 3005,
+    "numberOfRatings": 3074,
     "numberOfPages": 308,
-    "yearOfPublish": 2004
+    "dateOfPublish": "2004-05-10",
+    "price": 14.55
   },
   {
     "title": "Manitou",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.6,
-    "numberOfRatings": 2973,
+    "numberOfRatings": 2983,
     "numberOfPages": 272,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-07",
+    "price": null
   },
   {
     "title": "Buick 8",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6,
-    "numberOfRatings": 2720,
+    "numberOfRatings": 2724,
     "numberOfPages": 360,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-12-11",
+    "price": 19.01
   },
   {
     "title": "Dom na Wyrębach",
     "author": "Stefan Darda",
     "publisher": "Videograf II",
     "rating": 7.1,
-    "numberOfRatings": 2628,
+    "numberOfRatings": 2642,
     "numberOfPages": 336,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": 22.6
   },
   {
     "title": "Dziecko Rosemary",
     "author": "Ira Levin",
     "publisher": "Rebis",
     "rating": 7,
-    "numberOfRatings": 2544,
+    "numberOfRatings": 2551,
     "numberOfPages": 296,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": null
   },
   {
     "title": "Cztery po północy",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 2490,
+    "numberOfRatings": 2495,
     "numberOfPages": 832,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-10-30",
+    "price": 19.95
   },
   {
     "title": "Uniesienie",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.1,
-    "numberOfRatings": 2477,
+    "numberOfRatings": 2492,
     "numberOfPages": 176,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-14",
+    "price": 15.45
   },
   {
     "title": "Blaze",
     "author": "Richard Bachman",
     "publisher": "Albatros",
     "rating": 6.8,
-    "numberOfRatings": 2407,
+    "numberOfRatings": 2417,
     "numberOfPages": 320,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-13",
+    "price": 10.5
   },
   {
     "title": "Terror",
     "author": "Dan Simmons",
     "publisher": "Vesper",
     "rating": 8.2,
-    "numberOfRatings": 2321,
+    "numberOfRatings": 2340,
     "numberOfPages": 692,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-21",
+    "price": 36.47
   },
   {
     "title": "Po zachodzie słońca",
     "author": "Stephen King",
     "publisher": "Albatros",
     "rating": 6.5,
-    "numberOfRatings": 2215,
+    "numberOfRatings": 2218,
     "numberOfPages": 480,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-12",
+    "price": null
   },
   {
     "title": "Serca Atlantydów",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7,
-    "numberOfRatings": 2040,
+    "numberOfRatings": 2042,
     "numberOfPages": 512,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-10-30",
+    "price": 21.99
   },
   {
     "title": "World War Z",
     "author": "Max Brooks",
     "publisher": "Zysk i S-ka",
     "rating": 7.3,
-    "numberOfRatings": 2038,
+    "numberOfRatings": 2044,
     "numberOfPages": 544,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-05-08",
+    "price": 24.99
   },
   {
     "title": "Ostatni bastion Barta Dawesa",
     "author": "Richard Bachman",
     "publisher": "Albatros",
     "rating": 6.3,
-    "numberOfRatings": 1966,
+    "numberOfRatings": 1972,
     "numberOfPages": 352,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-07-22",
+    "price": 12.45
   },
   {
     "title": "Egzorcysta",
     "author": "William Peter Blatty",
     "publisher": "Vesper",
     "rating": 7.5,
-    "numberOfRatings": 1926,
+    "numberOfRatings": 1931,
     "numberOfPages": 356,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-04-11",
+    "price": 21.86
   },
   {
     "title": "Śpiące królewny",
     "author": "Owen King, Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 6.8,
-    "numberOfRatings": 1871,
+    "numberOfRatings": 1881,
     "numberOfPages": 736,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-24",
+    "price": 29.63
   },
   {
     "title": "Talizman",
     "author": "Stephen King, Peter Straub",
     "publisher": "Prószyński i S-ka",
     "rating": 6.7,
-    "numberOfRatings": 1865,
+    "numberOfRatings": 1874,
     "numberOfPages": 752,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-02-18",
+    "price": 23.01
   },
   {
     "title": "Czarny Dom",
     "author": "Stephen King, Peter Straub",
     "publisher": "Prószyński i S-ka",
     "rating": 6.7,
-    "numberOfRatings": 1792,
+    "numberOfRatings": 1797,
     "numberOfPages": 648,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-04-06",
+    "price": 8.24
   },
   {
     "title": "Mroczny kochanek",
     "author": "J.R. Ward",
     "publisher": "Videograf II",
     "rating": 7.3,
-    "numberOfRatings": 1716,
+    "numberOfRatings": 1717,
     "numberOfPages": 412,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-05-17",
+    "price": null
   },
   {
     "title": "Zgroza w Dunwich i inne przerażające opowieści",
     "author": "H.P. Lovecraft",
     "publisher": "Vesper",
     "rating": 8.4,
-    "numberOfRatings": 1714,
+    "numberOfRatings": 1724,
     "numberOfPages": 792,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-10-03",
+    "price": 36.47
   },
   {
     "title": "Jestem legendą",
     "author": "Richard Matheson",
     "publisher": "Mag",
     "rating": 7,
-    "numberOfRatings": 1655,
+    "numberOfRatings": 1660,
     "numberOfPages": 224,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": null
   },
   {
     "title": "Regulatorzy",
     "author": "Richard Bachman",
     "publisher": "Albatros",
     "rating": 6,
-    "numberOfRatings": 1621,
+    "numberOfRatings": 1628,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-08",
+    "price": 10.5
   },
   {
     "title": "Czarny Wygon. Słoneczna Dolina",
     "author": "Stefan Darda",
     "publisher": "Videograf",
     "rating": 7.3,
-    "numberOfRatings": 1599,
+    "numberOfRatings": 1609,
     "numberOfPages": 272,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-30",
+    "price": 20.24
   },
   {
     "title": "Wyklęty",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 6.8,
-    "numberOfRatings": 1591,
+    "numberOfRatings": 1592,
     "numberOfPages": 399,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-09-03",
+    "price": null
   },
   {
     "title": "Kostnica",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 6.3,
-    "numberOfRatings": 1539,
+    "numberOfRatings": 1541,
     "numberOfPages": 196,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-07-30",
+    "price": 17.73
   },
   {
     "title": "Zemsta Manitou",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.4,
-    "numberOfRatings": 1532,
+    "numberOfRatings": 1537,
     "numberOfPages": 304,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-07",
+    "price": 27.45
   },
   {
     "title": "Opiekunowie",
     "author": "Dean Koontz",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 1494,
+    "numberOfRatings": 1501,
     "numberOfPages": 512,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-06-14",
+    "price": 49.85
   },
   {
     "title": "Wszyscy martwi razem",
     "author": "Charlaine Harris",
     "publisher": "Mag",
     "rating": 6.8,
-    "numberOfRatings": 1462,
+    "numberOfRatings": 1465,
     "numberOfPages": null,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-04-20",
+    "price": null
   },
   {
     "title": "Dżinn",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 5.8,
-    "numberOfRatings": 1459,
+    "numberOfRatings": 1462,
     "numberOfPages": 184,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-08-18",
+    "price": 17.34
   },
   {
     "title": "Drapieżcy",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 1448,
+    "numberOfRatings": 1452,
     "numberOfPages": 400,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-05-01",
+    "price": null
   },
   {
     "title": "Rogi",
     "author": "Joe Hill",
     "publisher": "Prószyński i S-ka",
     "rating": 6.9,
-    "numberOfRatings": 1433,
+    "numberOfRatings": 1438,
     "numberOfPages": 376,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-10-14",
+    "price": null
   },
   {
     "title": "Inkub",
     "author": "Artur Urbanowicz",
     "publisher": "Vesper",
     "rating": 8.1,
-    "numberOfRatings": 1415,
+    "numberOfRatings": 1437,
     "numberOfPages": 728,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-04-03",
+    "price": 33.43
   },
   {
     "title": "Nekroskop",
     "author": "Brian Lumley",
     "publisher": "Vis-á-Vis/Etiuda",
     "rating": 7.2,
-    "numberOfRatings": 1409,
+    "numberOfRatings": 1410,
     "numberOfPages": 352,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-02-09",
+    "price": null
   },
   {
     "title": "Zwierciadło piekieł",
     "author": "Graham Masterton",
     "publisher": "Audioteka",
     "rating": 6.8,
-    "numberOfRatings": 1368,
+    "numberOfRatings": 1375,
     "numberOfPages": null,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-03-23",
+    "price": 18.82
   },
   {
     "title": "Ciemność płonie",
     "author": "Jakub Ćwiek",
     "publisher": "Sine Qua Non",
     "rating": 7,
-    "numberOfRatings": 1368,
+    "numberOfRatings": 1372,
     "numberOfPages": 320,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-18",
+    "price": 22.26
   },
   {
     "title": "Apokalipsa",
     "author": "Dean Koontz",
     "publisher": "Albatros",
     "rating": 6.4,
-    "numberOfRatings": 1329,
+    "numberOfRatings": 1331,
     "numberOfPages": 352,
-    "yearOfPublish": 2006
+    "dateOfPublish": "2006-07-31",
+    "price": null
   },
   {
     "title": "Gorzej niż martwy",
     "author": "Charlaine Harris",
     "publisher": "Mag",
     "rating": 6.8,
-    "numberOfRatings": 1320,
+    "numberOfRatings": 1321,
     "numberOfPages": 430,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-10-19",
+    "price": null
   },
   {
     "title": "Dom kości",
     "author": "Graham Masterton",
     "publisher": "Replika",
     "rating": 6.2,
-    "numberOfRatings": 1317,
+    "numberOfRatings": 1319,
     "numberOfPages": 288,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-09-12",
+    "price": null
   },
   {
     "title": "Wypowiedz jej imię",
     "author": "James Dawson",
     "publisher": "YA!",
     "rating": 7.2,
-    "numberOfRatings": 1304,
+    "numberOfRatings": 1305,
     "numberOfPages": 256,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-03",
+    "price": null
   },
   {
     "title": "Wiecznie żywy",
     "author": "Isaac Marion",
     "publisher": "Replika",
     "rating": 6.9,
-    "numberOfRatings": 1294,
+    "numberOfRatings": 1295,
     "numberOfPages": 308,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-02-28",
+    "price": 17.5
   },
   {
     "title": "Cienie sukuba",
     "author": "Richelle Mead",
     "publisher": "Amber",
     "rating": 7.5,
-    "numberOfRatings": 1266,
+    "numberOfRatings": 1267,
     "numberOfPages": 336,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-11",
+    "price": null
   },
   {
     "title": "Sfinks",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 5.7,
-    "numberOfRatings": 1219,
+    "numberOfRatings": 1220,
     "numberOfPages": 216,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Rytuał",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 6.6,
-    "numberOfRatings": 1218,
+    "numberOfRatings": 1223,
     "numberOfPages": 376,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-05-24",
+    "price": 19.5
   },
   {
     "title": "Wampir z sąsiedztwa",
     "author": "Kerrelyn Sparks",
     "publisher": "Amber",
     "rating": 7.5,
-    "numberOfRatings": 1203,
+    "numberOfRatings": 1204,
     "numberOfPages": 392,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-10-20",
+    "price": null
   },
   {
     "title": "Apokalipsa Z: Początek końca",
     "author": "Manel Loureiro",
     "publisher": "Muza",
     "rating": 7.6,
-    "numberOfRatings": 1192,
+    "numberOfRatings": 1193,
     "numberOfPages": 416,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-09-25",
+    "price": null
   },
   {
     "title": "Miasteczko Salem (wersja rozszerzona)",
@@ -717,151 +796,168 @@
     "rating": 7.6,
     "numberOfRatings": 1168,
     "numberOfPages": 488,
-    "yearOfPublish": 2005
+    "dateOfPublish": "2005-11-03",
+    "price": null
   },
   {
     "title": "Czarny Wygon. Starzyzna",
     "author": "Stefan Darda",
     "publisher": "Videograf",
     "rating": 7.3,
-    "numberOfRatings": 1166,
+    "numberOfRatings": 1174,
     "numberOfPages": 272,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-27",
+    "price": 20.24
   },
   {
     "title": "Demony Normandii",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.4,
-    "numberOfRatings": 1162,
+    "numberOfRatings": 1165,
     "numberOfPages": 208,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-07-29",
+    "price": null
   },
   {
     "title": "Szczelina",
     "author": "Jozef Karika",
     "publisher": "Stara Szkoła",
     "rating": 7.5,
-    "numberOfRatings": 1148,
+    "numberOfRatings": 1171,
     "numberOfPages": 412,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-30",
+    "price": 18.76
   },
   {
     "title": "Zaklęci",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 1121,
+    "numberOfRatings": 1122,
     "numberOfPages": 416,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-01",
+    "price": null
   },
   {
     "title": "Dziecko ciemności",
     "author": "Graham Masterton",
     "publisher": "Replika",
     "rating": 6.7,
-    "numberOfRatings": 1118,
+    "numberOfRatings": 1119,
     "numberOfPages": 400,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-09-01",
+    "price": null
   },
   {
     "title": "Złe miejsce",
     "author": "Dean Koontz",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 1115,
+    "numberOfRatings": 1117,
     "numberOfPages": 480,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-07-07",
+    "price": null
   },
   {
     "title": "Ofiara krwi",
     "author": "J.R. Ward",
     "publisher": "Videograf II",
     "rating": 7.7,
-    "numberOfRatings": 1108,
+    "numberOfRatings": 1118,
     "numberOfPages": 432,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-06-12",
+    "price": null
   },
   {
     "title": "Twierdza",
     "author": "F. Paul Wilson",
     "publisher": "Vesper",
     "rating": 7.2,
-    "numberOfRatings": 1107,
+    "numberOfRatings": 1114,
     "numberOfPages": 436,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-04-15",
+    "price": null
   },
   {
     "title": "Odd Thomas",
     "author": "Dean Koontz",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 1100,
+    "numberOfRatings": 1101,
     "numberOfPages": 386,
-    "yearOfPublish": 2004
+    "dateOfPublish": "2004-11-30",
+    "price": null
   },
   {
     "title": "Nawiedzony dom na wzgórzu",
     "author": "Shirley Jackson",
     "publisher": "Replika",
     "rating": 5.6,
-    "numberOfRatings": 1067,
+    "numberOfRatings": 1080,
     "numberOfPages": 304,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-16",
+    "price": 19.88
   },
   {
     "title": "Pudełko w kształcie serca",
     "author": "Joe Hill",
     "publisher": "Prószyński i S-ka",
     "rating": 6.5,
-    "numberOfRatings": 1066,
+    "numberOfRatings": 1069,
     "numberOfPages": 328,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Walhalla",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 1018,
+    "numberOfRatings": 1020,
     "numberOfPages": 400,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-02-10",
+    "price": null
   },
   {
     "title": "Wieczna miłość",
     "author": "J.R. Ward",
     "publisher": "Videograf II",
     "rating": 7.8,
-    "numberOfRatings": 1011,
+    "numberOfRatings": 1019,
     "numberOfPages": 448,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-07-27",
+    "price": null
   },
   {
     "title": "Grzeszne rozkosze",
     "author": "Laurell K. Hamilton",
     "publisher": "Zysk i S-ka",
     "rating": 7.1,
-    "numberOfRatings": 1005,
+    "numberOfRatings": 1004,
     "numberOfPages": 474,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": 3
   },
   {
     "title": "Ring",
-    "author": "Koji Suzuki",
+    "author": "Kōji Suzuki",
     "publisher": "Znak",
     "rating": 7,
     "numberOfRatings": 997,
     "numberOfPages": 324,
-    "yearOfPublish": 2004
+    "dateOfPublish": "2004-01-01",
+    "price": null
   },
   {
     "title": "Sztorm stulecia",
     "author": "Stephen King",
     "publisher": "Prószyński i S-ka",
     "rating": 7.2,
-    "numberOfRatings": 961,
+    "numberOfRatings": 965,
     "numberOfPages": 448,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-09-05",
+    "price": 25.19
   },
   {
     "title": "Bazyliszek",
@@ -870,52 +966,58 @@
     "rating": 5.9,
     "numberOfRatings": 958,
     "numberOfPages": 288,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-02-17",
+    "price": null
   },
   {
     "title": "Przegląd końca świata. Feed",
     "author": "Mira Grant",
     "publisher": "Sine Qua Non",
     "rating": 7.2,
-    "numberOfRatings": 929,
+    "numberOfRatings": 931,
     "numberOfPages": 496,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-11-07",
+    "price": null
   },
   {
     "title": "Maska",
     "author": "Dean Koontz",
     "publisher": "Albatros",
     "rating": 6.3,
-    "numberOfRatings": 924,
+    "numberOfRatings": 925,
     "numberOfPages": 326,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-01",
+    "price": null
   },
   {
     "title": "Kobieta w czerni",
     "author": "Susan Hill",
     "publisher": "Amber",
     "rating": 6.3,
-    "numberOfRatings": 922,
+    "numberOfRatings": 924,
     "numberOfPages": 254,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-02-14",
+    "price": null
   },
   {
     "title": "Wyznawcy płomienia",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.5,
-    "numberOfRatings": 911,
+    "numberOfRatings": 971,
     "numberOfPages": 366,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Ciało i krew",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.5,
-    "numberOfRatings": 900,
+    "numberOfRatings": 901,
     "numberOfPages": 462,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": null
   },
   {
     "title": "Merrick",
@@ -924,16 +1026,18 @@
     "rating": 6.8,
     "numberOfRatings": 899,
     "numberOfPages": 383,
-    "yearOfPublish": 2008
+    "dateOfPublish": "2008-01-01",
+    "price": 22.99
   },
   {
     "title": "Tengu",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 6.2,
-    "numberOfRatings": 885,
+    "numberOfRatings": 890,
     "numberOfPages": 360,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-01-01",
+    "price": 28.38
   },
   {
     "title": "Wojownicy nocy",
@@ -942,7 +1046,8 @@
     "rating": 6.2,
     "numberOfRatings": 885,
     "numberOfPages": 380,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-10-08",
+    "price": 20.68
   },
   {
     "title": "Wampirze Serce",
@@ -951,25 +1056,28 @@
     "rating": 7.6,
     "numberOfRatings": 882,
     "numberOfPages": 480,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-11-10",
+    "price": null
   },
   {
     "title": "Dracula: Nieumarły",
     "author": "Ian Holt, Dacre Stoker",
     "publisher": "Znak",
     "rating": 6.2,
-    "numberOfRatings": 868,
+    "numberOfRatings": 869,
     "numberOfPages": 376,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-01-01",
+    "price": null
   },
   {
     "title": "Ocalałe",
     "author": "Riley Sager",
     "publisher": "Otwarte",
     "rating": 7,
-    "numberOfRatings": 856,
+    "numberOfRatings": 860,
     "numberOfPages": 432,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-02-14",
+    "price": 25.94
   },
   {
     "title": "Zjawa",
@@ -978,61 +1086,68 @@
     "rating": 6.7,
     "numberOfRatings": 856,
     "numberOfPages": 432,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-01",
+    "price": 24.02
   },
   {
     "title": "Apokalipsa Z: Mroczne dni",
     "author": "Manel Loureiro",
     "publisher": "Muza",
     "rating": 7.4,
-    "numberOfRatings": 854,
+    "numberOfRatings": 856,
     "numberOfPages": 352,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-11-06",
+    "price": null
   },
   {
     "title": "Narodziny Gubernatora",
     "author": "Jay Bonansinga, Robert Kirkman",
     "publisher": "Sine Qua Non",
     "rating": 7.1,
-    "numberOfRatings": 843,
+    "numberOfRatings": 845,
     "numberOfPages": 364,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-11-09",
+    "price": null
   },
   {
     "title": "Krew Manitou",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 6.5,
-    "numberOfRatings": 825,
+    "numberOfRatings": 827,
     "numberOfPages": 352,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-05-11",
+    "price": 22.65
   },
   {
     "title": "Dziedzictwo",
     "author": "Graham Masterton",
     "publisher": "Rebis",
     "rating": 6.3,
-    "numberOfRatings": 807,
+    "numberOfRatings": 809,
     "numberOfPages": 232,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-08-14",
+    "price": 20.9
   },
   {
     "title": "Upadłe anioły",
     "author": "Graham Masterton",
     "publisher": "Albatros",
     "rating": 7.1,
-    "numberOfRatings": 807,
+    "numberOfRatings": 814,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-07-01",
+    "price": 24.37
   },
   {
     "title": "Kolekcjoner motyli",
     "author": "Dot Hutchison",
     "publisher": "Filia",
     "rating": 7.1,
-    "numberOfRatings": 799,
+    "numberOfRatings": 803,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-06-14",
+    "price": 20.68
   },
   {
     "title": "Cyrk Potępieńców",
@@ -1041,25 +1156,28 @@
     "rating": 7.5,
     "numberOfRatings": 791,
     "numberOfPages": 484,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-07-06",
+    "price": null
   },
   {
     "title": "Rook",
     "author": "Graham Masterton",
     "publisher": "Replika",
     "rating": 6.7,
-    "numberOfRatings": 787,
+    "numberOfRatings": 788,
     "numberOfPages": 278,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-03-25",
+    "price": 19.9
   },
   {
     "title": "Uśmiechnięty nieboszczyk",
     "author": "Laurell K. Hamilton",
     "publisher": "Zysk i S-ka",
     "rating": 7.4,
-    "numberOfRatings": 784,
+    "numberOfRatings": 783,
     "numberOfPages": 468,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-01-01",
+    "price": null
   },
   {
     "title": "Czternaście obliczy strachu",
@@ -1068,15 +1186,17 @@
     "rating": 6.5,
     "numberOfRatings": 773,
     "numberOfPages": 271,
-    "yearOfPublish": 2000
+    "dateOfPublish": "2000-01-01",
+    "price": null
   },
   {
     "title": "Wilkołak",
     "author": "Jonathan Maberry",
     "publisher": "Amber",
     "rating": 6.1,
-    "numberOfRatings": 767,
+    "numberOfRatings": 769,
     "numberOfPages": 288,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-02-16",
+    "price": 14.9
   }
 ]

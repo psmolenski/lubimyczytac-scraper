@@ -4,486 +4,540 @@
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.2,
-    "numberOfRatings": 41799,
+    "numberOfRatings": 41861,
     "numberOfPages": 416,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": 10.77
   },
   {
     "title": "Pięćdziesiąt twarzy Greya",
     "author": "E L James",
     "publisher": "Sonia Draga",
     "rating": 5.8,
-    "numberOfRatings": 35943,
+    "numberOfRatings": 35985,
     "numberOfPages": 608,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-01-14",
+    "price": 24.97
   },
   {
     "title": "Księżyc w nowiu",
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6,
-    "numberOfRatings": 35183,
+    "numberOfRatings": 35227,
     "numberOfPages": 488,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-11-01",
+    "price": 7.45
   },
   {
     "title": "Zaćmienie",
     "author": "Stephenie Meyer",
     "publisher": "Wydawnictwo Dolnośląskie",
     "rating": 6.2,
-    "numberOfRatings": 32630,
+    "numberOfRatings": 32673,
     "numberOfPages": 560,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-11-01",
+    "price": 24.14
   },
   {
     "title": "Ciemniejsza strona Greya",
     "author": "E L James",
     "publisher": "Sonia Draga",
     "rating": 6.4,
-    "numberOfRatings": 23824,
+    "numberOfRatings": 23851,
     "numberOfPages": 632,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-11-07",
+    "price": 22.19
   },
   {
     "title": "Nowe oblicze Greya",
     "author": "E L James",
     "publisher": "Sonia Draga",
     "rating": 6.4,
-    "numberOfRatings": 19798,
+    "numberOfRatings": 19818,
     "numberOfPages": 688,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-01-09",
+    "price": 9.98
   },
   {
     "title": "Pamiętnik",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 14320,
+    "numberOfRatings": 14347,
     "numberOfPages": 256,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-09",
+    "price": 9.82
   },
   {
     "title": "Samotność w sieci",
     "author": "Janusz Leon Wiśniewski",
     "publisher": "Wielka Litera",
     "rating": 6.5,
-    "numberOfRatings": 13300,
+    "numberOfRatings": 13319,
     "numberOfPages": 424,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-24",
+    "price": 26.47
   },
   {
     "title": "Ostatnia piosenka",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 13046,
+    "numberOfRatings": 13076,
     "numberOfPages": 448,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-07",
+    "price": 25.27
   },
   {
     "title": "Jesienna miłość",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 11444,
+    "numberOfRatings": 11469,
     "numberOfPages": 224,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-04",
+    "price": 20.56
   },
   {
     "title": "Love, Rosie",
     "author": "Cecelia Ahern",
     "publisher": "Akurat",
     "rating": 7.7,
-    "numberOfRatings": 11369,
+    "numberOfRatings": 11386,
     "numberOfPages": 512,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-12-03",
+    "price": 8.5
   },
   {
     "title": "I wciąż ją kocham",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 11182,
+    "numberOfRatings": 11197,
     "numberOfPages": 416,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-03",
+    "price": 25
   },
   {
     "title": "Maybe Someday",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8.2,
-    "numberOfRatings": 10551,
+    "numberOfRatings": 10586,
     "numberOfPages": 440,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-09",
+    "price": 26.98
   },
   {
     "title": "Jeździec miedziany",
     "author": "Paullina Simons",
     "publisher": "Świat Książki",
     "rating": 8.2,
-    "numberOfRatings": 9077,
+    "numberOfRatings": 9105,
     "numberOfPages": 720,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-10",
+    "price": 24.99
   },
   {
     "title": "Diabeł ubiera się u Prady",
     "author": "Lauren Weisberger",
     "publisher": "Albatros",
     "rating": 6.1,
-    "numberOfRatings": 8701,
+    "numberOfRatings": 8710,
     "numberOfPages": 448,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-01",
+    "price": 9.64
   },
   {
     "title": "365 dni",
     "author": "Blanka Lipińska",
     "publisher": "Edipresse",
     "rating": 5.2,
-    "numberOfRatings": 8050,
+    "numberOfRatings": 8113,
     "numberOfPages": 472,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-07-04",
+    "price": 9.03
   },
   {
     "title": "Dotyk Crossa",
     "author": "Sylvia June Day",
     "publisher": "Świat Książki",
     "rating": 6.9,
-    "numberOfRatings": 8001,
+    "numberOfRatings": 8021,
     "numberOfPages": null,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-30",
+    "price": 7.78
   },
   {
     "title": "Kiedy odszedłeś",
     "author": "Jojo Moyes",
     "publisher": "Znak Literanova",
     "rating": 7,
-    "numberOfRatings": 7697,
+    "numberOfRatings": 7726,
     "numberOfPages": 496,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-06-06",
+    "price": null
   },
   {
     "title": "After. Płomień pod moją skórą",
     "author": "Anna Todd",
     "publisher": "Znak",
     "rating": 7.2,
-    "numberOfRatings": 7561,
+    "numberOfRatings": 7630,
     "numberOfPages": 656,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-04-03",
+    "price": 29.18
   },
   {
     "title": "List w butelce",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 7393,
+    "numberOfRatings": 7400,
     "numberOfPages": 336,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-23",
+    "price": 10.5
   },
   {
     "title": "Losing Hope",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8,
-    "numberOfRatings": 7357,
+    "numberOfRatings": 7379,
     "numberOfPages": 355,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-04",
+    "price": 11
   },
   {
     "title": "Bezpieczna przystań",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 6863,
+    "numberOfRatings": 6872,
     "numberOfPages": 416,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-31",
+    "price": 12.45
   },
   {
     "title": "Tatiana i Aleksander",
     "author": "Paullina Simons",
     "publisher": "Świat Książki",
     "rating": 8,
-    "numberOfRatings": 6458,
+    "numberOfRatings": 6469,
     "numberOfPages": 544,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-12",
+    "price": 24.78
   },
   {
     "title": "Coś pożyczonego",
     "author": "Emily Giffin",
     "publisher": "Otwarte",
     "rating": 6.8,
-    "numberOfRatings": 6435,
+    "numberOfRatings": 6436,
     "numberOfPages": 400,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-10",
+    "price": null
   },
   {
     "title": "Ugly Love",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8,
-    "numberOfRatings": 6295,
+    "numberOfRatings": 6319,
     "numberOfPages": 344,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": 26.33
   },
   {
     "title": "Anioł stróż",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 6125,
+    "numberOfRatings": 6140,
     "numberOfPages": 464,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-28",
+    "price": null
   },
   {
     "title": "November 9",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8.2,
-    "numberOfRatings": 5847,
+    "numberOfRatings": 5876,
     "numberOfPages": 336,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-11-09",
+    "price": 26.32
   },
   {
     "title": "Płomień Crossa",
     "author": "Sylvia June Day",
     "publisher": "Świat Książki",
     "rating": 7.2,
-    "numberOfRatings": 5798,
+    "numberOfRatings": 5811,
     "numberOfPages": null,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-30",
+    "price": 23.71
   },
   {
     "title": "Bez słów",
     "author": "Mia Sheridan",
     "publisher": "Otwarte",
     "rating": 7.9,
-    "numberOfRatings": 5590,
+    "numberOfRatings": 5612,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-21",
+    "price": null
   },
   {
     "title": "Dla ciebie wszystko",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 5565,
+    "numberOfRatings": 5572,
     "numberOfPages": 400,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-12-10",
+    "price": 7.19
   },
   {
     "title": "Promyczek",
     "author": "Kim Holden",
     "publisher": "Filia",
     "rating": 8.3,
-    "numberOfRatings": 5375,
+    "numberOfRatings": 5401,
     "numberOfPages": 592,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-05-06",
+    "price": 24.42
   },
   {
     "title": "Prokurator",
     "author": "Paulina Świst",
     "publisher": "Muza",
     "rating": 6.7,
-    "numberOfRatings": 5304,
+    "numberOfRatings": 5328,
     "numberOfPages": 320,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-24",
+    "price": 8.99
   },
   {
     "title": "Układ",
     "author": "Elle Kennedy",
     "publisher": "Zysk i S-ka",
     "rating": 8.1,
-    "numberOfRatings": 5083,
+    "numberOfRatings": 5109,
     "numberOfPages": 464,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-29",
+    "price": 23.33
   },
   {
     "title": "Wyznanie Crossa",
     "author": "Sylvia June Day",
     "publisher": "Świat Książki",
     "rating": 7.3,
-    "numberOfRatings": 5010,
+    "numberOfRatings": 5024,
     "numberOfPages": null,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-01-30",
+    "price": 20.96
   },
   {
     "title": "Grey",
     "author": "E L James",
     "publisher": "Sonia Draga",
     "rating": 6.1,
-    "numberOfRatings": 4887,
+    "numberOfRatings": 4900,
     "numberOfPages": 560,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-09-10",
+    "price": 19.95
   },
   {
     "title": "Coś niebieskiego",
     "author": "Emily Giffin",
     "publisher": "Otwarte",
     "rating": 6.9,
-    "numberOfRatings": 4883,
+    "numberOfRatings": 4885,
     "numberOfPages": 384,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-10",
+    "price": 2.93
   },
   {
     "title": "Confess",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8,
-    "numberOfRatings": 4872,
+    "numberOfRatings": 4887,
     "numberOfPages": 304,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-10",
+    "price": 25.94
   },
   {
     "title": "It Ends with Us",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8.5,
-    "numberOfRatings": 4753,
+    "numberOfRatings": 4786,
     "numberOfPages": 352,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-02",
+    "price": 25.93
   },
   {
     "title": "Ten dzień",
     "author": "Blanka Lipińska",
     "publisher": "Edipresse",
     "rating": 5.8,
-    "numberOfRatings": 4650,
+    "numberOfRatings": 4700,
     "numberOfPages": 520,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-10-30",
+    "price": 20.47
   },
   {
     "title": "Ogród letni",
     "author": "Paullina Simons",
     "publisher": "Świat Książki",
     "rating": 7.7,
-    "numberOfRatings": 4568,
+    "numberOfRatings": 4572,
     "numberOfPages": 816,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-10",
+    "price": 22.12
   },
   {
     "title": "Najdłuższa podróż",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.8,
-    "numberOfRatings": 4532,
+    "numberOfRatings": 4539,
     "numberOfPages": 464,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-01-21",
+    "price": 11.98
   },
   {
     "title": "Cukiernia pod Amorem. Zajezierscy",
     "author": "Małgorzata Gutowska-Adamczyk",
     "publisher": "Prószyński i S-ka",
     "rating": 7.2,
-    "numberOfRatings": 4486,
+    "numberOfRatings": 4488,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-09",
+    "price": null
   },
   {
     "title": "Noce w Rodanthe",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 4469,
+    "numberOfRatings": 4477,
     "numberOfPages": 256,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-17",
+    "price": 18.76
   },
   {
     "title": "Szczęściarz",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 4467,
+    "numberOfRatings": 4475,
     "numberOfPages": 396,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-12-24",
+    "price": 24.61
   },
   {
     "title": "Piękny drań",
     "author": "Christina Lauren",
     "publisher": "Zysk i S-ka",
     "rating": 7.1,
-    "numberOfRatings": 4412,
+    "numberOfRatings": 4421,
     "numberOfPages": 320,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-09",
+    "price": 14.95
   },
   {
     "title": "Alibi na szczęście",
     "author": "Anna Ficner-Ogonowska",
     "publisher": "Znak",
     "rating": 7.4,
-    "numberOfRatings": 4410,
+    "numberOfRatings": 4413,
     "numberOfPages": 672,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-12",
+    "price": 22.69
   },
   {
     "title": "Dziewczyna z Brooklynu",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 4303,
+    "numberOfRatings": 4321,
     "numberOfPages": 368,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-13",
+    "price": 23.47
   },
   {
     "title": "Zaczekaj na mnie",
     "author": "J. Lynn",
     "publisher": "Amber",
     "rating": 7.9,
-    "numberOfRatings": 4216,
+    "numberOfRatings": 4220,
     "numberOfPages": 304,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-03-04",
+    "price": null
   },
   {
     "title": "Tak blisko...",
     "author": "Tammara Webber",
     "publisher": "Jaguar",
     "rating": 7.8,
-    "numberOfRatings": 4213,
+    "numberOfRatings": 4222,
     "numberOfPages": 336,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-02-06",
+    "price": null
   },
   {
     "title": "Na ratunek",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 4182,
+    "numberOfRatings": 4186,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-05-12",
+    "price": 21.8
   },
   {
     "title": "Wybór",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 4103,
+    "numberOfRatings": 4111,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-14",
+    "price": 24.36
   },
   {
     "title": "Na zakręcie",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 4052,
+    "numberOfRatings": 4056,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-02-18",
+    "price": 21.58
   },
   {
     "title": "Nie dajesz mi spać",
     "author": "Alice Clayton",
     "publisher": "Pascal",
     "rating": 7.5,
-    "numberOfRatings": 3851,
+    "numberOfRatings": 3859,
     "numberOfPages": 400,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-09-24",
+    "price": 6.2
   },
   {
     "title": "Przypadki Callie i Kaydena",
     "author": "Jessica Sorensen",
     "publisher": "Zysk i S-ka",
     "rating": 7.8,
-    "numberOfRatings": 3824,
+    "numberOfRatings": 3833,
     "numberOfPages": 368,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-08",
+    "price": 22.68
   },
   {
     "title": "Sto dni po ślubie",
@@ -492,591 +546,657 @@
     "rating": 6.6,
     "numberOfRatings": 3722,
     "numberOfPages": 376,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-06-16",
+    "price": null
   },
   {
     "title": "O krok za daleko",
     "author": "Abbi Glines",
     "publisher": "Pascal",
     "rating": 7.6,
-    "numberOfRatings": 3650,
+    "numberOfRatings": 3655,
     "numberOfPages": 299,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-07-17",
+    "price": 22.69
   },
   {
     "title": "Czereśnie zawsze muszą być dwie",
     "author": "Magdalena Witkiewicz",
     "publisher": "Filia",
     "rating": 7.8,
-    "numberOfRatings": 3628,
+    "numberOfRatings": 3648,
     "numberOfPages": 496,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-10",
+    "price": 21.78
   },
   {
     "title": "Kolejne 365 dni",
     "author": "Blanka Lipińska",
     "publisher": "Agora",
     "rating": 5.9,
-    "numberOfRatings": 3594,
+    "numberOfRatings": 3647,
     "numberOfPages": 400,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-05-29",
+    "price": 24.97
   },
   {
     "title": "Central Park",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 3586,
+    "numberOfRatings": 3605,
     "numberOfPages": 352,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-06-24",
+    "price": 23.84
   },
   {
     "title": "Ślub",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.3,
-    "numberOfRatings": 3573,
+    "numberOfRatings": 3576,
     "numberOfPages": 272,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-05-25",
+    "price": 18.29
   },
   {
     "title": "Cukiernia Pod Amorem. Cieślakowie",
     "author": "Małgorzata Gutowska-Adamczyk",
     "publisher": "Prószyński i S-ka",
     "rating": 7.4,
-    "numberOfRatings": 3556,
+    "numberOfRatings": 3562,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-09",
+    "price": null
   },
   {
     "title": "Mistrz",
     "author": "Katarzyna Michalak",
     "publisher": "Znak",
-    "rating": 7,
-    "numberOfRatings": 3533,
+    "rating": 7.1,
+    "numberOfRatings": 3544,
     "numberOfPages": null,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-04-13",
+    "price": 24.34
   },
   {
     "title": "Telefon od anioła",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 3452,
+    "numberOfRatings": 3471,
     "numberOfPages": 384,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-07-08",
+    "price": null
   },
   {
     "title": "Dziecioodporna",
     "author": "Emily Giffin",
     "publisher": "Otwarte",
     "rating": 6.3,
-    "numberOfRatings": 3404,
+    "numberOfRatings": 3406,
     "numberOfPages": 392,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-10",
+    "price": 21.39
   },
   {
     "title": "Błąd",
     "author": "Elle Kennedy",
     "publisher": "Zysk i S-ka",
     "rating": 7.6,
-    "numberOfRatings": 3368,
+    "numberOfRatings": 3381,
     "numberOfPages": 376,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-07-04",
+    "price": null
   },
   {
     "title": "Razem będzie lepiej",
     "author": "Jojo Moyes",
     "publisher": "Znak Literanova",
     "rating": 7.6,
-    "numberOfRatings": 3366,
+    "numberOfRatings": 3382,
     "numberOfPages": 464,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-08-30",
+    "price": 10.91
   },
   {
     "title": "Kochając pana Danielsa",
     "author": "Brittainy C. Cherry",
     "publisher": "Filia",
     "rating": 8.1,
-    "numberOfRatings": 3365,
+    "numberOfRatings": 3373,
     "numberOfPages": 432,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-17",
+    "price": null
   },
   {
     "title": "Krok do szczęścia",
     "author": "Anna Ficner-Ogonowska",
     "publisher": "Znak",
     "rating": 7.5,
-    "numberOfRatings": 3318,
+    "numberOfRatings": 3319,
     "numberOfPages": 416,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-03-12",
+    "price": 21.39
   },
   {
     "title": "Wbrew zasadom",
     "author": "Samantha Young",
     "publisher": "G+J",
     "rating": 7.8,
-    "numberOfRatings": 3315,
+    "numberOfRatings": 3329,
     "numberOfPages": 424,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-06-19",
+    "price": 22.89
   },
   {
     "title": "Na krawędzi nigdy",
     "author": "J.A. Redmerski",
     "publisher": "Filia",
     "rating": 7.9,
-    "numberOfRatings": 3302,
+    "numberOfRatings": 3309,
     "numberOfPages": 476,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-22",
+    "price": null
   },
   {
     "title": "Ponieważ cię kocham",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 3302,
+    "numberOfRatings": 3324,
     "numberOfPages": 288,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-07-22",
+    "price": 23.9
   },
   {
     "title": "Prawdziwy cud",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 6.9,
-    "numberOfRatings": 3186,
+    "numberOfRatings": 3188,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-06-09",
+    "price": 21.38
   },
   {
     "title": "Utrata",
     "author": "Rachel Van Dyken",
     "publisher": "Feeria Young",
     "rating": 7.9,
-    "numberOfRatings": 3162,
+    "numberOfRatings": 3164,
     "numberOfPages": 304,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-02-04",
+    "price": null
   },
   {
     "title": "Cukiernia pod Amorem. Hryciowie",
     "author": "Małgorzata Gutowska-Adamczyk",
     "publisher": "Prószyński i S-ka",
     "rating": 7.3,
-    "numberOfRatings": 3109,
+    "numberOfRatings": 3113,
     "numberOfPages": null,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-09",
+    "price": 24.5
   },
   {
     "title": "Zaplątani",
     "author": "Emma Chase",
     "publisher": "Filia",
     "rating": 7.4,
-    "numberOfRatings": 3066,
+    "numberOfRatings": 3073,
     "numberOfPages": 380,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-04",
+    "price": null
   },
   {
     "title": "Wybór Crossa",
     "author": "Sylvia June Day",
     "publisher": "Świat Książki",
     "rating": 7.1,
-    "numberOfRatings": 3064,
+    "numberOfRatings": 3075,
     "numberOfPages": 416,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-02-12",
+    "price": 23.71
   },
   {
     "title": "Spróbujmy jeszcze raz",
     "author": "Abbi Glines",
     "publisher": "Pascal",
     "rating": 7.6,
-    "numberOfRatings": 3041,
+    "numberOfRatings": 3044,
     "numberOfPages": 336,
-    "yearOfPublish": 2013
+    "dateOfPublish": "2013-10-09",
+    "price": null
   },
   {
     "title": "Współlokatorzy",
     "author": "Beth O'Leary",
     "publisher": "Albatros",
     "rating": 7.4,
-    "numberOfRatings": 3034,
+    "numberOfRatings": 3113,
     "numberOfPages": 432,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-20",
+    "price": 17.99
   },
   {
     "title": "Obca",
     "author": "Diana Gabaldon",
     "publisher": "Świat Książki",
     "rating": 7.6,
-    "numberOfRatings": 3018,
+    "numberOfRatings": 3033,
     "numberOfPages": 712,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-18",
+    "price": null
   },
   {
     "title": "Dziewczyna, którą kochałeś",
     "author": "Jojo Moyes",
     "publisher": "Znak Literanova",
     "rating": 7.8,
-    "numberOfRatings": 3003,
+    "numberOfRatings": 3018,
     "numberOfPages": 512,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-01-11",
+    "price": 25.94
   },
   {
     "title": "Od pierwszego wejrzenia",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.2,
-    "numberOfRatings": 2975,
+    "numberOfRatings": 2979,
     "numberOfPages": 416,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-06-23",
+    "price": 8.41
   },
   {
     "title": "Uratuj mnie",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7,
-    "numberOfRatings": 2963,
+    "numberOfRatings": 2968,
     "numberOfPages": 368,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-13",
+    "price": 22.19
   },
   {
     "title": "Powietrze, którym oddycha",
     "author": "Brittainy C. Cherry",
     "publisher": "Filia",
     "rating": 7.9,
-    "numberOfRatings": 2959,
+    "numberOfRatings": 2966,
     "numberOfPages": 400,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-07-20",
+    "price": null
   },
   {
     "title": "Zjazd absolwentów",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 6.8,
-    "numberOfRatings": 2940,
+    "numberOfRatings": 2974,
     "numberOfPages": 320,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-07-31",
+    "price": null
   },
   {
     "title": "Bez winy",
     "author": "Mia Sheridan",
     "publisher": "Otwarte",
     "rating": 8,
-    "numberOfRatings": 2933,
+    "numberOfRatings": 2940,
     "numberOfPages": 384,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-09-26",
+    "price": 11.21
   },
   {
     "title": "Moje serce w dwóch światach",
     "author": "Jojo Moyes",
     "publisher": "Znak Literanova",
     "rating": 7.6,
-    "numberOfRatings": 2932,
+    "numberOfRatings": 2954,
     "numberOfPages": 512,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-06-06",
+    "price": 10.49
   },
   {
     "title": "Spójrz na mnie",
     "author": "Nicholas Sparks",
     "publisher": "Albatros",
     "rating": 7.5,
-    "numberOfRatings": 2920,
+    "numberOfRatings": 2933,
     "numberOfPages": 512,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-09-28",
+    "price": 24.71
   },
   {
     "title": "Dręczyciel",
     "author": "Penelope Douglas",
     "publisher": "Editio",
     "rating": 7.7,
-    "numberOfRatings": 2915,
+    "numberOfRatings": 2923,
     "numberOfPages": 305,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-02-15",
+    "price": null
   },
   {
     "title": "Siedem lat później",
     "author": "Emily Giffin",
     "publisher": "Otwarte",
     "rating": 6.8,
-    "numberOfRatings": 2914,
+    "numberOfRatings": 2915,
     "numberOfPages": 408,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-01-06",
+    "price": 21.39
   },
   {
     "title": "Grzech śmiertelny",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.3,
-    "numberOfRatings": 2872,
+    "numberOfRatings": 2876,
     "numberOfPages": 237,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-06-08",
+    "price": null
   },
   {
     "title": "Too Late",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 7.4,
-    "numberOfRatings": 2846,
+    "numberOfRatings": 2872,
     "numberOfPages": 408,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-07-17",
+    "price": 25.93
   },
   {
     "title": "Wszystkie nasze obietnice",
     "author": "Colleen Hoover",
     "publisher": "Otwarte",
     "rating": 8.2,
-    "numberOfRatings": 2801,
+    "numberOfRatings": 2824,
     "numberOfPages": 296,
-    "yearOfPublish": 2018
+    "dateOfPublish": "2018-11-14",
+    "price": 25.93
   },
   {
     "title": "Kryształowy Anioł",
     "author": "Katarzyna Grochola",
     "publisher": "Wydawnictwo Literackie",
     "rating": 6.8,
-    "numberOfRatings": 2753,
+    "numberOfRatings": 2755,
     "numberOfPages": 550,
-    "yearOfPublish": 2009
+    "dateOfPublish": "2009-01-01",
+    "price": null
   },
   {
     "title": "Woda dla słoni",
     "author": "Sara Gruen",
     "publisher": "Rebis",
     "rating": 7.2,
-    "numberOfRatings": 2743,
+    "numberOfRatings": 2748,
     "numberOfPages": 404,
-    "yearOfPublish": 2011
+    "dateOfPublish": "2011-04-20",
+    "price": null
   },
   {
     "title": "Cztery sekundy do stracenia",
     "author": "K.A. Tucker",
     "publisher": "Filia",
     "rating": 7.9,
-    "numberOfRatings": 2696,
+    "numberOfRatings": 2706,
     "numberOfPages": 556,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-03-11",
+    "price": null
   },
   {
     "title": "Będziesz tam?",
     "author": "Guillaume Musso",
     "publisher": "Albatros",
     "rating": 7.6,
-    "numberOfRatings": 2626,
+    "numberOfRatings": 2641,
     "numberOfPages": 320,
-    "yearOfPublish": 2020
+    "dateOfPublish": "2020-05-13",
+    "price": 24.15
   },
   {
     "title": "Córka hycla",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.1,
-    "numberOfRatings": 2607,
+    "numberOfRatings": 2609,
     "numberOfPages": 233,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-06-07",
+    "price": null
   },
   {
     "title": "Gus",
     "author": "Kim Holden",
     "publisher": "Filia",
     "rating": 8.1,
-    "numberOfRatings": 2546,
+    "numberOfRatings": 2565,
     "numberOfPages": 504,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-09-07",
+    "price": 23.56
   },
   {
     "title": "Jak poślubić wampira milionera",
     "author": "Kerrelyn Sparks",
     "publisher": "Amber",
     "rating": 7,
-    "numberOfRatings": 2535,
+    "numberOfRatings": 2539,
     "numberOfPages": 336,
-    "yearOfPublish": 2010
+    "dateOfPublish": "2010-01-26",
+    "price": null
   },
   {
     "title": "Edukacja Kopciuszka",
     "author": "Gina L. Maxwell",
     "publisher": "Amber",
     "rating": 6.9,
-    "numberOfRatings": 2508,
+    "numberOfRatings": 2512,
     "numberOfPages": 320,
-    "yearOfPublish": 2012
+    "dateOfPublish": "2012-12-04",
+    "price": null
   },
   {
     "title": "Real",
     "author": "Katy Evans",
     "publisher": "Papierowy Księżyc",
-    "rating": 7.8,
-    "numberOfRatings": 2506,
+    "rating": 7.7,
+    "numberOfRatings": 2515,
     "numberOfPages": 450,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-03-09",
+    "price": null
   },
   {
     "title": "Buntownik",
     "author": "Jay Crownover",
     "publisher": "Amber",
     "rating": 7.6,
-    "numberOfRatings": 2488,
+    "numberOfRatings": 2490,
     "numberOfPages": 304,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-03-18",
+    "price": null
   },
   {
     "title": "Po prostu bądź",
     "author": "Magdalena Witkiewicz",
     "publisher": "Filia",
     "rating": 7.9,
-    "numberOfRatings": 2469,
+    "numberOfRatings": 2472,
     "numberOfPages": 336,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-10-07",
+    "price": 21.78
   },
   {
     "title": "Samotny",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7,
-    "numberOfRatings": 2453,
+    "numberOfRatings": 2456,
     "numberOfPages": 237,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Kiedy pada deszcz",
     "author": "Lisa De Jong",
     "publisher": "Filia",
     "rating": 8,
-    "numberOfRatings": 2450,
+    "numberOfRatings": 2458,
     "numberOfPages": 550,
-    "yearOfPublish": 2016
+    "dateOfPublish": "2016-06-22",
+    "price": null
   },
   {
     "title": "Zły Romeo",
     "author": "Leisa Rayven",
     "publisher": "Otwarte",
     "rating": 7.4,
-    "numberOfRatings": 2447,
+    "numberOfRatings": 2451,
     "numberOfPages": 400,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-03-29",
+    "price": 23.94
   },
   {
     "title": "Ocalenie Callie i Kaydena",
     "author": "Jessica Sorensen",
     "publisher": "Zysk i S-ka",
     "rating": 7.7,
-    "numberOfRatings": 2436,
+    "numberOfRatings": 2444,
     "numberOfPages": 384,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-10-19",
+    "price": 26.98
   },
   {
     "title": "Podbój",
     "author": "Elle Kennedy",
     "publisher": "Zysk i S-ka",
     "rating": 7.7,
-    "numberOfRatings": 2435,
+    "numberOfRatings": 2455,
     "numberOfPages": 448,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-02-13",
+    "price": 23.33
   },
   {
     "title": "Zacznijmy od nowa",
     "author": "Abbi Glines",
     "publisher": "Pascal",
     "rating": 7.5,
-    "numberOfRatings": 2432,
+    "numberOfRatings": 2436,
     "numberOfPages": 288,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-04-16",
+    "price": null
   },
   {
     "title": "Uwikłani. Pokusa",
     "author": "Laurelin Paige",
     "publisher": "Wydawnictwo Kobiece",
     "rating": 7.2,
-    "numberOfRatings": 2431,
+    "numberOfRatings": 2453,
     "numberOfPages": 360,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-11-19",
+    "price": 8.73
   },
   {
     "title": "Gorączka",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.3,
-    "numberOfRatings": 2411,
+    "numberOfRatings": 2414,
     "numberOfPages": 237,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Siedem sióstr",
     "author": "Lucinda Riley",
     "publisher": "Albatros",
     "rating": 7.7,
-    "numberOfRatings": 2404,
+    "numberOfRatings": 2464,
     "numberOfPages": 544,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-11-13",
+    "price": 24.2
   },
   {
     "title": "Złączeni honorem",
     "author": "Cora Reilly",
     "publisher": "NieZwykłe",
     "rating": 7.7,
-    "numberOfRatings": 2388,
+    "numberOfRatings": 2430,
     "numberOfPages": 285,
-    "yearOfPublish": 2019
+    "dateOfPublish": "2019-04-17",
+    "price": 24.5
   },
   {
     "title": "Zimowa zawierucha",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.1,
-    "numberOfRatings": 2370,
+    "numberOfRatings": 2374,
     "numberOfPages": 237,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Zemsta",
     "author": "Margit Sandemo",
     "publisher": "Ringier Axel Springer Polska",
     "rating": 7.1,
-    "numberOfRatings": 2353,
+    "numberOfRatings": 2356,
     "numberOfPages": 240,
-    "yearOfPublish": 2007
+    "dateOfPublish": "2007-01-01",
+    "price": null
   },
   {
     "title": "Piękny nieznajomy",
     "author": "Christina Lauren",
     "publisher": "Zysk i S-ka",
     "rating": 7.3,
-    "numberOfRatings": 2320,
+    "numberOfRatings": 2325,
     "numberOfPages": 368,
-    "yearOfPublish": 2015
+    "dateOfPublish": "2015-06-15",
+    "price": 19.95
   },
   {
     "title": "Sztuka uwodzenia",
     "author": "Samantha Young",
     "publisher": "Burda Publishing Polska",
     "rating": 7.9,
-    "numberOfRatings": 2319,
+    "numberOfRatings": 2329,
     "numberOfPages": 496,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-06-18",
+    "price": null
   },
   {
     "title": "Przyrodni brat",
     "author": "Penelope Ward",
     "publisher": "Editio",
     "rating": 7.5,
-    "numberOfRatings": 2300,
+    "numberOfRatings": 2307,
     "numberOfPages": 272,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-05-24",
+    "price": 39.9
   },
   {
     "title": "Dominic",
     "author": "L.A. Casey",
     "publisher": "Wydawnictwo Kobiece",
-    "rating": 7.4,
-    "numberOfRatings": 2295,
+    "rating": 7.3,
+    "numberOfRatings": 2303,
     "numberOfPages": 488,
-    "yearOfPublish": 2017
+    "dateOfPublish": "2017-10-05",
+    "price": 20.44
   },
   {
     "title": "Wszystkie odcienie pożądania",
     "author": "Samantha Young",
     "publisher": "G+J",
     "rating": 7.8,
-    "numberOfRatings": 2284,
+    "numberOfRatings": 2293,
     "numberOfPages": 496,
-    "yearOfPublish": 2014
+    "dateOfPublish": "2014-01-01",
+    "price": 22.89
   }
 ]
