@@ -42,7 +42,7 @@ function parseGameDetails(gameEl, category) {
         title: gameEl.querySelector('.product_title h1').innerText.trim(),
         publisher: gameEl.querySelector('.summary_detail.publisher .data').innerText.trim(),
         platform: gameEl.querySelector('.platform').innerText.trim(),
-        releaseDate: `${date.getFullYear()}-${new String(date.getMonth()).padStart(2, '0')}-${new String(date.getDay()).padStart(2, '0')}`,
+        releaseDate: `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDay() + 1).padStart(2, '0')}`,
         rating: ratingEl ? Number.parseFloat(ratingEl.innerText.trim()) : null,
         numberOfRatings: numberOfRatingsEl ? Number.parseInt(numberOfRatingsEl.innerText.trim()) : null,
         numberOfPrizes: gameEl.querySelectorAll('.rankings tbody tr').length,
